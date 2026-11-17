@@ -1,6 +1,6 @@
 {
-  "version": "6.5",
-  "build": 47,
-  "notes": "检查更新接通了：App 自带更新源，有新版会自动提醒，点「去更新」就能下新包（最后安装仍走签名工具）。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.5.ipa"
+  "version": "6.6",
+  "build": 48,
+  "notes": "完工回访有提醒、报价单能逐个催单、新建客户可从通讯录导入，核心文案池也加厚了。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.6.ipa"
 }
