@@ -1,6 +1,6 @@
 {
-  "version": "8.0",
-  "build": 62,
-  "notes": "多了「接活日历」：一个月历看清哪天跟进谁、哪张报价单到期、哪天成交了，点事项直达客户或报价单；页头有本月小结。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.0.ipa"
+  "version": "8.1",
+  "build": 63,
+  "notes": "接活日历加了「量房」（紫点，和量房未报价提醒同一天）；日历右上角能把本月安排一键分享成文本清单；工具页日历入口带本月事项数。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.1.ipa"
 }
