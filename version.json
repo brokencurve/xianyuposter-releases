@@ -1,6 +1,6 @@
 {
-  "version": "6.8",
-  "build": 50,
-  "notes": "客户建重了能合并（报价/方案/案例/量房/时间线并入，合并前先预览确认）、报价单价有记忆（自动带上次价）、量房单图能带房间照片、案例能出施工方案、两个逐个队列能先跳过。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.8.ipa"
+  "version": "6.9",
+  "build": 51,
+  "notes": "客户建重了会提醒『可能重复』（只提醒不自动合并，点详情页提示就能去合并）、量房能整套复制给另一个客户、方案图能带你的二维码、AI 写文案能带上主推案例当背书、报价单列表多一行阶段小字（刚发/快到期/已过期几天）。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.9.ipa"
 }
