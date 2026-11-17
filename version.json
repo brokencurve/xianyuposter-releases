@@ -1,6 +1,6 @@
 {
-  "version": "7.9",
-  "build": 61,
-  "notes": "进度播报图：在客户详情的施工进度区点「出进度播报图」，干到哪一步印成图发给业主，还能带一张他家最新的一张现场图；在施工地页头能看到尾款一共还待收多少；分享本月战报时，设了年度目标的会带一行今年目标完成进度。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.9.ipa"
+  "version": "8.0",
+  "build": 62,
+  "notes": "多了「接活日历」：一个月历看清哪天跟进谁、哪张报价单到期、哪天成交了，点事项直达客户或报价单；页头有本月小结。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.0.ipa"
 }
