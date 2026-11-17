@@ -1,6 +1,6 @@
 {
-  "version": "7.5",
-  "build": 57,
-  "notes": "经营统计多了「小区排行」：哪个小区客户多、成交多、钱多，前 5 名一目了然，点一行直接只看这个小区的客户；统计里多了「发帖都发哪了」，每个平台发过多少条排出来；发帖统计改按发布时间算了——写完压了几天才发的，算在真发出去的那个月（老文案没记发布时间的还是按生成时间，不会乱）。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.5.ipa"
+  "version": "7.6",
+  "build": 58,
+  "notes": "本月收款可导 CSV 表格对账（和统计同一批数）；收款组以前记过收款就常驻；在施工地总览可按跟进日排序。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.6.ipa"
 }
