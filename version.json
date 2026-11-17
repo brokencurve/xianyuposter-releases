@@ -1,6 +1,6 @@
 {
-  "version": "7.8",
-  "build": 60,
-  "notes": "收款进度条一眼看收了几成；在施工地名单上直接标谁还欠尾款；新增年度目标，统计页能看今年进度。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.8.ipa"
+  "version": "7.9",
+  "build": 61,
+  "notes": "进度播报图：在客户详情的施工进度区点「出进度播报图」，干到哪一步印成图发给业主，还能带一张他家最新的一张现场图；在施工地页头能看到尾款一共还待收多少；分享本月战报时，设了年度目标的会带一行今年目标完成进度。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.9.ipa"
 }
