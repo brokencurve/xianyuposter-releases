@@ -1,6 +1,6 @@
 {
-  "version": "6.6",
-  "build": 48,
-  "notes": "完工回访有提醒、报价单能逐个催单、新建客户可从通讯录导入，核心文案池也加厚了。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.6.ipa"
+  "version": "6.7",
+  "build": 49,
+  "notes": "报价单能按量房一键出整单、完工回访有一键话术、AI 好文案能存成自己的模板、本周待跟进能导出清单。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.7.ipa"
 }
