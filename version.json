@@ -1,6 +1,6 @@
 {
-  "version": "7.1",
-  "build": 53,
-  "notes": "进度停太久会提醒了（停在同一档超 10 天，列表和今日事项都会点名）；客户卡带上施工进度；完工确认话术自动带完工日期；客户也能导出 CSV 表格了；报价单备注也能开口说了。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.1.ipa"
+  "version": "7.2",
+  "build": 54,
+  "notes": "能记收款了：定金、中期款、尾款一笔笔记在客户名下，已收多少、还差多少自动算；完工还没结清的客户名单上会标「尾款还差 ¥X」；客户合并时收款也会一起并过去，不丢钱账。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.2.ipa"
 }
