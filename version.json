@@ -1,6 +1,6 @@
 {
-  "version": "8.2",
-  "build": 64,
-  "notes": "客户详情可直接发短信、按小区导航去客户家；电话口径修了三处（带括号的座机也认、拨号更稳、粘 +86 完整号码也能按电话搜到客户）",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.2.ipa"
+  "version": "8.3",
+  "build": 65,
+  "notes": "客户能记详细地址了：导航按「小区+详细地址」导到楼下（没填门牌还是只导到小区，按钮小字写明）；接活日历多了「完工」标记，本月小结带完工几家",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.3.ipa"
 }
