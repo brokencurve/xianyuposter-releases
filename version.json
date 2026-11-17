@@ -1,6 +1,6 @@
 {
-  "version": "8.5",
-  "build": 67,
-  "notes": "这版能记转介绍了：新建或编辑客户时能选是谁介绍来的；客户详情里能看到他又介绍了哪几位新客户；经营统计里多了转介绍带来的单子数，年底答谢老客户心里有数。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.5.ipa"
+  "version": "8.6",
+  "build": 68,
+  "notes": "这版把转介绍收尾做完了：介绍人详情页「他介绍来的」里多了「发个感谢」，一键复制感谢话术发给他；客户页筛选多了「转介绍来的」，记了介绍人的客户一筛就出来；合并客户档时介绍关系也不会再丢。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.6.ipa"
 }
