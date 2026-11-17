@@ -1,6 +1,6 @@
 {
-  "version": "7.0",
-  "build": 52,
-  "notes": "记跟进、记量房备注能开口说了（麦克风听写填字，改完再保存）；已成交客户能记施工进度（未开工→水电→瓦木→油漆→安装收尾），方案会自动带上当前进度；报价单能导出 CSV 对账表；搜索结果会标明是不是备注里搜到的。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.0.ipa"
+  "version": "7.1",
+  "build": 53,
+  "notes": "进度停太久会提醒了（停在同一档超 10 天，列表和今日事项都会点名）；客户卡带上施工进度；完工确认话术自动带完工日期；客户也能导出 CSV 表格了；报价单备注也能开口说了。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.1.ipa"
 }
