@@ -1,6 +1,6 @@
 {
-  "version": "7.7",
-  "build": 59,
-  "notes": "全面体检版（无新功能）：话术分池防串池、进度停滞天数修正；备份覆盖、通知链、金额口径逐项复查通过。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.7.ipa"
+  "version": "7.8",
+  "build": 60,
+  "notes": "收款进度条一眼看收了几成；在施工地名单上直接标谁还欠尾款；新增年度目标，统计页能看今年进度。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.8.ipa"
 }
