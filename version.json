@@ -1,6 +1,6 @@
 {
-  "version": "7.3",
-  "build": 55,
-  "notes": "催尾款有一键话术了（带称呼和还差金额）；收款能出明细图发客户对账；客户页多了「尾款未结清」筛选，经营统计的「累计待收」也能点进去；报价单成交还没记收款的会提醒你去记首笔。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.3.ipa"
+  "version": "7.4",
+  "build": 56,
+  "notes": "工具页多了「在施工地」：已成交在干的工地一页看清进度和停滞，左滑能复制问进度话术；超过 3 天没发新帖，创作页会提醒你发一条保持曝光；完工交付话术会看钱的状态——没结清客气带上还差多少，结清了带一句款项已结清。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.4.ipa"
 }
