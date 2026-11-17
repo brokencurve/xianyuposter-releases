@@ -1,6 +1,6 @@
 {
-  "version": "8.8",
-  "build": 70,
-  "notes": "完工验收能出图了：客户详情验收区点「出验收单图」，清单和勾选进度印成一张图发业主；能带一张现场图、能一条龙发客户；验收单分享话术可在更多设置里改。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.8.ipa"
+  "version": "8.9",
+  "build": 71,
+  "notes": "年度小结图补全：多了本年已收、转介绍带来几单、成交最多的小区，设了年度目标的图尾带完成进度；图里能直接换今年/去年；「最能打」并列时取先记下的，不再翻来覆去",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.9.ipa"
 }
