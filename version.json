@@ -1,6 +1,6 @@
 {
-  "version": "7.4",
-  "build": 56,
-  "notes": "工具页多了「在施工地」：已成交在干的工地一页看清进度和停滞，左滑能复制问进度话术；超过 3 天没发新帖，创作页会提醒你发一条保持曝光；完工交付话术会看钱的状态——没结清客气带上还差多少，结清了带一句款项已结清。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.4.ipa"
+  "version": "7.5",
+  "build": 57,
+  "notes": "经营统计多了「小区排行」：哪个小区客户多、成交多、钱多，前 5 名一目了然，点一行直接只看这个小区的客户；统计里多了「发帖都发哪了」，每个平台发过多少条排出来；发帖统计改按发布时间算了——写完压了几天才发的，算在真发出去的那个月（老文案没记发布时间的还是按生成时间，不会乱）。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.5.ipa"
 }
