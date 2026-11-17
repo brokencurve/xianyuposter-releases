@@ -1,6 +1,6 @@
 {
-  "version": "8.6",
-  "build": 68,
-  "notes": "这版把转介绍收尾做完了：介绍人详情页「他介绍来的」里多了「发个感谢」，一键复制感谢话术发给他；客户页筛选多了「转介绍来的」，记了介绍人的客户一筛就出来；合并客户档时介绍关系也不会再丢。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.6.ipa"
+  "version": "8.7",
+  "build": 69,
+  "notes": "完工验收清单：按服务给一份验收项目，陪业主逐项打勾；完工交付包带验收进度",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.7.ipa"
 }
