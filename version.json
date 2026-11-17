@@ -1,6 +1,6 @@
 {
-  "version": "6.7",
-  "build": 49,
-  "notes": "报价单能按量房一键出整单、完工回访有一键话术、AI 好文案能存成自己的模板、本周待跟进能导出清单。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.7.ipa"
+  "version": "6.8",
+  "build": 50,
+  "notes": "客户建重了能合并（报价/方案/案例/量房/时间线并入，合并前先预览确认）、报价单价有记忆（自动带上次价）、量房单图能带房间照片、案例能出施工方案、两个逐个队列能先跳过。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.8.ipa"
 }
