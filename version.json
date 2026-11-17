@@ -1,6 +1,6 @@
 {
-  "version": "8.4",
-  "build": 66,
-  "notes": "体检版（没加新功能）：逐项查了备份、日历、导航、金额和帮助；修了一个联系方式判定的小毛病——加号凑数、数字不够的号码不再亮拨打按钮。详细地址、年度目标、进度播报话术在导出/导入/iCloud 备份里都确认带着。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.4.ipa"
+  "version": "8.5",
+  "build": 67,
+  "notes": "这版能记转介绍了：新建或编辑客户时能选是谁介绍来的；客户详情里能看到他又介绍了哪几位新客户；经营统计里多了转介绍带来的单子数，年底答谢老客户心里有数。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.5.ipa"
 }
