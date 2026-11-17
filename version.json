@@ -1,6 +1,6 @@
 {
-  "version": "6.9",
-  "build": 51,
-  "notes": "客户建重了会提醒『可能重复』（只提醒不自动合并，点详情页提示就能去合并）、量房能整套复制给另一个客户、方案图能带你的二维码、AI 写文案能带上主推案例当背书、报价单列表多一行阶段小字（刚发/快到期/已过期几天）。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.9.ipa"
+  "version": "7.0",
+  "build": 52,
+  "notes": "记跟进、记量房备注能开口说了（麦克风听写填字，改完再保存）；已成交客户能记施工进度（未开工→水电→瓦木→油漆→安装收尾），方案会自动带上当前进度；报价单能导出 CSV 对账表；搜索结果会标明是不是备注里搜到的。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v7.0.ipa"
 }
