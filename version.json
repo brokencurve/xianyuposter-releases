@@ -1,6 +1,6 @@
 {
-  "version": "6.4",
-  "build": 46,
-  "notes": "整洁稳健版：备份覆盖、提醒、帮助说法全部复查对齐，没加新功能。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.4.ipa"
+  "version": "6.5",
+  "build": 47,
+  "notes": "检查更新接通了：App 自带更新源，有新版会自动提醒，点「去更新」就能下新包（最后安装仍走签名工具）。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v6.5.ipa"
 }
