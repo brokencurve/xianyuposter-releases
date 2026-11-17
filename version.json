@@ -1,6 +1,6 @@
 {
-  "version": "8.1",
-  "build": 63,
-  "notes": "接活日历加了「量房」（紫点，和量房未报价提醒同一天）；日历右上角能把本月安排一键分享成文本清单；工具页日历入口带本月事项数。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.1.ipa"
+  "version": "8.2",
+  "build": 64,
+  "notes": "客户详情可直接发短信、按小区导航去客户家；电话口径修了三处（带括号的座机也认、拨号更稳、粘 +86 完整号码也能按电话搜到客户）",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v8.2.ipa"
 }
