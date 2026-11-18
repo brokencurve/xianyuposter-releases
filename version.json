@@ -1,6 +1,6 @@
 {
-  "version": "9.27",
-  "build": 99,
-  "notes": "新加「材料商通讯录」（工具页工作区最下面、采购清单存档页顶部都能进）：常买材料的店家把名称、主营、电话、地址、备注存一本，买料时点行右侧就能直接拨号或复制联系方式，不用再翻手机通讯录。通讯录跟着备份走（导出备份、iCloud 备份都带），换手机导回来一家不少；店名是必填的，空着存不了。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.27.ipa"
+  "version": "9.28",
+  "build": 100,
+  "notes": "应收总览里能直接催款了：左滑一行点「复制催款话术」，一句现成的催尾款话术就复制好，去聊天里粘贴发给业主，不用再点进客户详情里找。挑的话术和客户详情收款区那个按钮是同一句（同一套挑法），复制后时间线里同样会记一笔哪天催过、当时还差多少，翻账对得上。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.28.ipa"
 }
