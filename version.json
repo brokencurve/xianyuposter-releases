@@ -1,6 +1,6 @@
 {
-  "version": "9.3",
-  "build": 75,
-  "notes": "简易施工合同优化：选工种自动生成工程内容（选刷漆出刷漆工序、选修补出修补工序，可多选合并）、付款节点常用分法点一下整组换上（刷漆 材料35/刷完第二遍50/验收15 等工种分法加通用组）、合同可 AI 生成（用「AI 文案」里填的 Key 现写工程内容和付款节点，比例不合规会被拦下重出）。你自己写过的内容、改过的付款节点不会被自动生成冲掉。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.3.ipa"
+  "version": "9.4",
+  "build": 76,
+  "notes": "工作区补齐单据链：①增项确认单——施工中途加项目先落纸，明细金额自动算、原合同金额和增项后总价都印在单上，发业主确认了再施工，回来标上「已确认」；②完工结算单——合同金额 + 已确认增项 − 已经收的 = 应收尾款，一张纸对清，每项都标来源，缺合同金额会明说让你手填，绝不拿 0 冒充。未确认的增项不进结算。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.4.ipa"
 }
