@@ -1,6 +1,6 @@
 {
-  "version": "9.15",
-  "build": 87,
-  "notes": "完工交付一键包会带对账摘要了：客户存过结算快照的，验收话术里自动多一段——哪天对的账、合同额、已确认增项、已收、待收，全是快照里当时定格的数，没存快照的不带。话术库新加「节日问候」分类：春节、中秋、国庆、元旦、冬至共 10 条现成问候，逢节给老客户发一句，点一条就复制。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.15.ipa"
+  "version": "9.16",
+  "build": 88,
+  "notes": "新加开工提醒：合同上约好的开工日在 3 天内的，创作页「今日事项」会多一行「即将开工 N 家」，在施工地页顶部也有个「即将开工」小节，哪家哪天开工、还剩几天写得清清楚楚，提前备料排人；他家采购清单还没买完的，行尾带一句「材料还没买完」。客户详情的施工进度区也会写「合同定 X月X日开工（还剩 N 天）」，进度点到已开工就自动消失。没签合同的不提醒，不拿成交日冒充开工日。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.16.ipa"
 }
