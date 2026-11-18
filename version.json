@@ -1,6 +1,6 @@
 {
-  "version": "9.24",
-  "build": 96,
-  "notes": "这一版是体检版，没有新功能：把最近五个版本（报价单延期、完工存案例、应收总览、节日问候、质保提醒）从头到尾复查了一遍，32 项实测断言全部通过，没查出真毛病——数据备份完整、到期和账龄算法同口径、金额全 App 一把尺。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.24.ipa"
+  "version": "9.25",
+  "build": 97,
+  "notes": "这一版把 10 个扩展服务的发帖文案补厚了：卫生间改造、厨房翻新、旧房翻新、全屋整装、局部改造、地板翻新、门窗维修、水电改造、吊顶安装、拆墙砌墙，每个都补到 20 条标题、16 条正文，和核心服务一样厚，连着发也不怕翻来覆去就那几条。新文案角度散开：年底赶工、开春提前约、局部快修、邻居介绍、工艺细节、避坑提醒都有；老文案一条没动。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.25.ipa"
 }
