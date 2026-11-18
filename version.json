@@ -1,6 +1,6 @@
 {
-  "version": "9.18",
-  "build": 90,
-  "notes": "这一版是体检版：把最近五个版本的新东西整体复查了一遍——材料价格备忘、单子材料成本、完工交付包的对账摘要、节日问候话术、开工提醒、接活日历的开工和预计完工，金额口径和日期计算都抽出来实测过，没查出问题。没有新功能，界面和用法跟上一版一样，数据和备份口径都没变，放心用。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.18.ipa"
+  "version": "9.19",
+  "build": 91,
+  "notes": "报价单能一键延期了：已发的单子快到期、或过期还没满一周时，在报价单列表里长按（或右滑）选「延期 7 天」，有效期当场顺延 7 天，不用重做单子。延期是从原来的到期日往后加，不是从今天重算，不吃亏；想多延再点一次。延期后快到期提醒、日历上的到期日都跟着新日子走，行上会写明已延期到几月几日。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.19.ipa"
 }
