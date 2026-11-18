@@ -1,6 +1,6 @@
 {
-  "version": "9.14",
-  "build": 86,
-  "notes": "新加「单子材料成本」：客户详情「他的采购清单」最上面汇总这单材料一共花了多少（只算填了价的行，有行没填价会明说只是已填价部分），有合同额的还给一行「合同 − 材料 = 毛利参考」（没算人工，只是参考，负数照实红字显示）。统计页多了「各单材料成本」一节：已成交 / 已完工的单子按毛利参考从低到高排，最该注意的在最上面；没挂客户的清单单独报一个总数，不摊进任何一单。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.14.ipa"
+  "version": "9.15",
+  "build": 87,
+  "notes": "完工交付一键包会带对账摘要了：客户存过结算快照的，验收话术里自动多一段——哪天对的账、合同额、已确认增项、已收、待收，全是快照里当时定格的数，没存快照的不带。话术库新加「节日问候」分类：春节、中秋、国庆、元旦、冬至共 10 条现成问候，逢节给老客户发一句，点一条就复制。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.15.ipa"
 }
