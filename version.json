@@ -1,6 +1,6 @@
 {
-  "version": "9.1",
-  "build": 73,
-  "notes": "改名「装修助手」+ 玻璃线条新图标（房子+滚筒刷）；上架准备版：下线应用内检查更新（以后走应用商店更新）、补齐隐私清单与出口合规。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.1.ipa"
+  "version": "9.2",
+  "build": 74,
+  "notes": "工具页新增「工作区」：简易施工合同（选客户关联报价单，付款节点可改、合计100%校验，出图/全文/存档）、质保卡图（完工发业主留底，质保文案自己在设置里写）、快速估价（单价读自填单价表，没填不出数）、材料用量估算（瓷砖/涂料/美缝，可从量房带面积）。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.2.ipa"
 }
