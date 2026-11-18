@@ -1,6 +1,6 @@
 {
-  "version": "9.19",
-  "build": 91,
-  "notes": "报价单能一键延期了：已发的单子快到期、或过期还没满一周时，在报价单列表里长按（或右滑）选「延期 7 天」，有效期当场顺延 7 天，不用重做单子。延期是从原来的到期日往后加，不是从今天重算，不吃亏；想多延再点一次。延期后快到期提醒、日历上的到期日都跟着新日子走，行上会写明已延期到几月几日。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.19.ipa"
+  "version": "9.20",
+  "build": 92,
+  "notes": "完工能一键存案例了：客户标成已完工后，详情里点「存成案例」，服务、标题、他的照片（最多 6 张）、工期和造价都按他这单自动带好，确认一下点保存就进案例库，不用再手抄一遍，接着就能做对比帖、发帖。存之前都是草稿，关掉不保存什么都不留，不会再留空案例；完工一句话留给你自己写，施工前 / 后哪张是哪张在草稿里自己标。案例库里新建案例时先选关联客户，也能同样带入。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.20.ipa"
 }
