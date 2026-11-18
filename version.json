@@ -1,6 +1,6 @@
 {
-  "version": "9.23",
-  "build": 95,
-  "notes": "合同里能填「质保期限」了：合同页质保条款下面，几个月你自己填（12 / 24 / 60 有快捷档，也能手输），只用来算到期提醒、不印在合同上，空着就不提醒——质保几年 App 不替你定。质保到期日 = 完工日 + 你填的月数：到期前 30 天起，在施工地页最下面「质保快到期」会把客户列出来，过期 90 天内也在——到期前联系老客户回访一下，是维护也是转介绍的机会；合同存档和客户详情的合同行上也会带「质保到 M月d日」。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.23.ipa"
+  "version": "9.24",
+  "build": 96,
+  "notes": "这一版是体检版，没有新功能：把最近五个版本（报价单延期、完工存案例、应收总览、节日问候、质保提醒）从头到尾复查了一遍，32 项实测断言全部通过，没查出真毛病——数据备份完整、到期和账龄算法同口径、金额全 App 一把尺。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.24.ipa"
 }
