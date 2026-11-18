@@ -1,6 +1,6 @@
 {
-  "version": "9.22",
-  "build": 94,
-  "notes": "多了「节日问候助手」：话术库最上面进——先选一条节日问候，下面是已完工老客户名单（按完工从近到远），点一位的「复制问候」就复制好去微信粘贴发，这边自动记上已发，页头数着「已发 X / 共 N 位」，不漏人也不重复发。已发标记 45 天内算数，过了窗口下个节还能再发。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.22.ipa"
+  "version": "9.23",
+  "build": 95,
+  "notes": "合同里能填「质保期限」了：合同页质保条款下面，几个月你自己填（12 / 24 / 60 有快捷档，也能手输），只用来算到期提醒、不印在合同上，空着就不提醒——质保几年 App 不替你定。质保到期日 = 完工日 + 你填的月数：到期前 30 天起，在施工地页最下面「质保快到期」会把客户列出来，过期 90 天内也在——到期前联系老客户回访一下，是维护也是转介绍的机会；合同存档和客户详情的合同行上也会带「质保到 M月d日」。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.23.ipa"
 }
