@@ -1,6 +1,6 @@
 {
-  "version": "9.25",
-  "build": 97,
-  "notes": "这一版把 10 个扩展服务的发帖文案补厚了：卫生间改造、厨房翻新、旧房翻新、全屋整装、局部改造、地板翻新、门窗维修、水电改造、吊顶安装、拆墙砌墙，每个都补到 20 条标题、16 条正文，和核心服务一样厚，连着发也不怕翻来覆去就那几条。新文案角度散开：年底赶工、开春提前约、局部快修、邻居介绍、工艺细节、避坑提醒都有；老文案一条没动。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.25.ipa"
+  "version": "9.26",
+  "build": 98,
+  "notes": "做报价单填单价时，行下面会多一行灰字「上次报 ¥X/单位 · M月d日（单名）」：这一项以前在别的报价单里报过价，就把最近那次亲手报的价摆出来参考，同一个活每次报多少心里有数。这个价只提示、点不动、绝不自动填进去，这次报多少还是你亲手填；双方案里按系数算出来的对照版（经济版 / 品质版）不算「上次报」，正在编辑的这张单也不会提示它自己。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.26.ipa"
 }
