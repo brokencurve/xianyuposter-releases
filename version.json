@@ -1,6 +1,6 @@
 {
-  "version": "9.17",
-  "build": 89,
-  "notes": "接活日历补上排期：合同上约好的开工日、按合同工期算出的预计完工日都摆进日历，靛蓝点是开工、粉点是预计完工，图例和本月小结都跟着算，点开那天能直达客户，哪周活挤、哪周空一眼看全。口径和在施工地页同一把尺：只认最新一份合同，没签合同、或合同没填工期的不上日历；进度点到「已开工」的，开工那条自动不出；预计完工过了期还没完工的，日历上还是摆那一天，超期去在施工地页看红字。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.17.ipa"
+  "version": "9.18",
+  "build": 90,
+  "notes": "这一版是体检版：把最近五个版本的新东西整体复查了一遍——材料价格备忘、单子材料成本、完工交付包的对账摘要、节日问候话术、开工提醒、接活日历的开工和预计完工，金额口径和日期计算都抽出来实测过，没查出问题。没有新功能，界面和用法跟上一版一样，数据和备份口径都没变，放心用。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.18.ipa"
 }
