@@ -1,6 +1,6 @@
 {
-  "version": "9.37",
-  "build": 109,
-  "notes": "材料商通讯录里每家店下面多了一行「今年买了 ¥X · 共 N 张单」：只算采购清单里标了这家店、又填了价的行，年底跟老板谈价、维护关系时心里有数；今年没买过的不显示，归年按采购清单是哪年开的算。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.37.ipa"
+  "version": "9.38",
+  "build": 110,
+  "notes": "施工地页最下面「质保快到期」名单里，左滑一行就能复制回访话术：现成话术带客户称呼，去微信粘贴就能发给老客户，不用再点进详情里找；只是复制，不会把他记成已回访，真回访过了去客户详情点「记一次回访」留痕。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.38.ipa"
 }
