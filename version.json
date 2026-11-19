@@ -1,6 +1,6 @@
 {
-  "version": "9.86",
-  "build": 158,
-  "notes": "按钮专项：全 App 的按钮过了一遍——翻月份的小箭头、卡片上的小铅笔、客户进度的小圆片这类小按钮，能点的地方都补到了手指好落的尺寸，按钮本身的样子没变大、没变色；主按钮和次按钮的规格统一成一套（圆角、边距、高度全 App 一个数）。只动按钮的样子和能点的范围，每个按钮点下去还是干原来的事，文字一个字没改，功能没有任何变化。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.86.ipa"
+  "version": "9.87",
+  "build": 159,
+  "notes": "删东西之前先问一句了：账号、我的模板、历史文案、话术、报价单的行、方案的步骤、自定义敏感词——以前左滑一下就删掉，手滑了找不回来；现在左滑会先弹一句确认，点了「删除」才真删，点「取消」什么都不动。其他地方没动，数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.87.ipa"
 }
