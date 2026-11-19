@@ -1,6 +1,6 @@
 {
-  "version": "9.60",
-  "build": 132,
-  "notes": "干活记录能导表格了：汇总卡下面点「导出 {年月}」，把正在看的那个月的记录导成 CSV 表格（一行一笔、最后一行带合计），发微信给合伙人、家里人对账，或者存到电脑上用 Excel 打开都行。表格按日期从早到晚排，金额、天数、人数只出读得出的数、读不出的留空；合计和页面汇总卡是同一个数，逐分对得上；那个月一笔没记时只提示、不导空表。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.60.ipa"
+  "version": "9.61",
+  "build": 133,
+  "notes": "这一版是体检版：把最近五个版本（界面整洁、材料商导航去店里、干活记录按月翻看、全年累计、导出表格对账）逐项又查了一遍，56 项实测全过，数和账都没问题。顺带改对一句提示：干活记录编辑页原来写金额「计进本月汇总」，翻到往月的记录打开编辑时会说错月份，改成「计进月汇总」。报价、成交、收款、尾款的算法和以前一个字没变；备份该带的一样不少（干活记录在内）；桌面小组件读的还是同一个本月数。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.61.ipa"
 }
