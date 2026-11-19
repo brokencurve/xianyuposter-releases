@@ -1,6 +1,6 @@
 {
-  "version": "9.81",
-  "build": 153,
-  "notes": "干活记录的列表行带上单价了：按每天固定价记的记录，行上小字多一段「每天 ¥300」（比如「3 天 · 2 人 · 每天 ¥300」），翻账时不用点进去，一眼就能核对这笔是按多少钱一天记的。客户详情里的干活记录行也一样带上了；没用固定价记的记录照旧。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.81.ipa"
+  "version": "9.82",
+  "build": 154,
+  "notes": "记干活填「每天固定」不用再重打单价了：下面会出一行「上次每天 ¥X，点一下带入」，点一下就把你上次用的每天价填进来，进账照样按天数自动算。这行只是提示，不点不会自动填；单价框里已经是这个价时就不出了，填的是别的数时点了会换成上次的价。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.82.ipa"
 }
