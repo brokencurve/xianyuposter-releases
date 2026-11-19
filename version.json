@@ -1,7 +1,6 @@
-
 {
- "version": "9.64",
- "build": 136,
- "notes": "年度回顾图多了第六项「干活（天）」：这一年在干活记录里记的天数合计，按干活日期算年，和干活记录页同一把尺——年底晒图能秀一句这一年干了多少天活；这一年没记干活记录，这一项就不出。图上只放天数、不放干活进账：进账是你自己记工的内部账，这张图是发给业主和朋友圈看的，成交、实收已经是对外口径的钱数；哪一年别的都还是 0、只有干活记录，这张图也照样能出。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.64.ipa"
+ "version": "9.65",
+ "build": 137,
+ "notes": "干活记录页顶上多了搜索框：填客户名、地点或备注里的词，就跨全部月份一起找——想查「上次在王家干了什么活」，搜一下就出来，不用一个月一个月翻。搜的时候下面列表换成全部记录里对得上的，上面写清找到几条；顶上的汇总和导出还是你正在看的那个月，不跟着变。清空搜索就回到按月看。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.65.ipa"
 }
