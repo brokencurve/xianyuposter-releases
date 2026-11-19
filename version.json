@@ -1,6 +1,6 @@
 {
-  "version": "9.89",
-  "build": 161,
-  "notes": "新功能：收款收据图——客户详情「收款」区里，每笔收款右边多了「收据图」，点开就是这一笔的收据：金额带人民币大写，记了成交额的还带已收合计和还差多少，存相册或分享发给业主当凭证。和原来的「收款明细图」分工：明细图是一个客户全部收款的对账长图，收据图只出你点中的这一笔。其他地方没动，数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.89.ipa"
+  "version": "9.90",
+  "build": 162,
+  "notes": "这一版是体检版：把最近四个版本（按钮更好按、删东西前先确认、收款收据图）逐项又查了一遍，实测全过——按钮只是变好按、点下去做的事没变；十处删除都改成了先弹框问一句、点「删除」才真删；收据图上的金额大写拿三十个金额逐个验过。报价、成交、收款、尾款的算法和以前一个字没变，数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.90.ipa"
 }
