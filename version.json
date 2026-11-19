@@ -1,6 +1,6 @@
 {
- "version": "9.50",
- "build": 122,
- "notes": "在施工地页「即将开工」名单里，左滑一家点「复制开工通知」：带客户称呼和合同开工日期的通知现成复制好，还写清了开工前请业主配合的三件事——腾空施工的房间、留一把钥匙、贵重物品先收好，粘贴就能发。话术库加一条带「开工通知」的话术就会优先用你的版本，文案里的 {日期} 自动换成开工那天。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.50.ipa"
+ "version": "9.51",
+ "build": 123,
+ "notes": "合同标题能自己改了：合同图最上面和合同全文第一行的标题不再写死——设置「更多设置 → 报价单抬头」里填「合同标题」，之后新建的合同都用它，留空还是「简易施工合同」。只想改某一份的，在那份合同页上面的「合同标题」框里改，只对这一份生效，清空就跟默认走；已经存档的合同不跟着设置变。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.51.ipa"
 }
