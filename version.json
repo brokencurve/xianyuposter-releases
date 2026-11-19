@@ -1,6 +1,6 @@
 {
- "version": "9.66",
- "build": 138,
- "notes": "干活记录导出能导全年了：点「导出」会先让你选「导出这个月」还是「导出这一年」，年底对总账不用再一个月一个月导。全年表和月份表一个样：一行一笔从早到晚排，合计和汇总卡下面那行全年累计是同一个数；哪一年一笔没记就只提示，不导空表。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.66.ipa"
+ "version": "9.67",
+ "build": 139,
+ "notes": "这一版是体检版：把最近五个版本（客户页干活小计、统计页干活卡、年度回顾加干活天数、干活记录搜索、导出全年表格）逐项又查了一遍，41 项实测全过，数和账都没问题。干活记录这本账在客户页、记录页、统计页、桌面小组件走同一把尺，在哪看都是一个数；报价、成交、收款、尾款的算法和以前一个字没变。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.67.ipa"
 }
