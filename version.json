@@ -1,6 +1,6 @@
 {
-  "version": "9.94",
-  "build": 166,
-  "notes": "客户列表里欠尾款的，行上直接带橙字「尾款还差 ¥X」：以前只标已完工的，现在已成交还没完工、钱没收满的也标了，扫一眼列表就知道谁欠多少。这个数和应收总览、尾款未结清筛选是同一把尺，收齐了自动消失；没记成交额的不瞎标。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.94.ipa"
+  "version": "9.95",
+  "build": 167,
+  "notes": "帮助里「尾款还差的标记是什么意思」改成和现在实际的一样了：成交了、钱没收满就标，完工没完工都算，和应收总览对得上。在施工地页行上的尾款标记，和客户列表、应收总览统一成同一套口径——三处同一批人、同一个数，不会对不上。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.95.ipa"
 }
