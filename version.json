@@ -1,6 +1,6 @@
 {
-  "version": "9.82",
-  "build": 154,
-  "notes": "记干活填「每天固定」不用再重打单价了：下面会出一行「上次每天 ¥X，点一下带入」，点一下就把你上次用的每天价填进来，进账照样按天数自动算。这行只是提示，不点不会自动填；单价框里已经是这个价时就不出了，填的是别的数时点了会换成上次的价。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.82.ipa"
+  "version": "9.83",
+  "build": 155,
+  "notes": "报价单列表里，没成交、没作废的单子，行上会直接标出有效期：还剩几天（剩 7 天以内橙字、再多灰字）、今天到期、已过期几天（红字），不用点开单子翻。已发的单子快到期那几天行上本来就有「快到期 · 剩 N 天」，那几张照旧看那一行，不重复标。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.83.ipa"
 }
