@@ -1,6 +1,6 @@
 {
-  "version": "9.45",
-  "build": 117,
-  "notes": "快开工的工地，在施工地页「即将开工」里每行下面多了一行「开工准备」：合同签了没、材料买齐没、施工方案存了没，齐了标绿、缺哪样橙字点名，开工前照着补。三样都是拿你记好的数据现算的：一张采购单都没建过不算缺料，只有真有清单没买完才标缺。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.45.ipa"
+  "version": "9.46",
+  "build": 118,
+  "notes": "完工请好评一键话术：已完工客户的详情里多了「请好评」一区，完工结算页「发给业主」里也有同一个按钮，点一下请好评的话就复制好、带客户称呼，去聊天里粘贴就能发。话术只挑话术库里请好评类的（带「好评」、不带「回访」），和完工回访的话分开挑、不抢同一条；库里没有合适的就用内置那句。只是复制，不记时间线。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.46.ipa"
 }
