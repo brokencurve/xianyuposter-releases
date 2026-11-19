@@ -1,6 +1,6 @@
 {
- "version": "9.51",
- "build": 123,
- "notes": "合同标题能自己改了：合同图最上面和合同全文第一行的标题不再写死——设置「更多设置 → 报价单抬头」里填「合同标题」，之后新建的合同都用它，留空还是「简易施工合同」。只想改某一份的，在那份合同页上面的「合同标题」框里改，只对这一份生效，清空就跟默认走；已经存档的合同不跟着设置变。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.51.ipa"
+ "version": "9.52",
+ "build": 124,
+ "notes": "新功能「干活记录」：工具页「工作区 → 干活记录」——哪单活干了多少钱、干了几天、几个人干的，记一笔存一笔，不挂客户的活手填个地点也能记。记录页顶上是本月汇总：本月几单活、共多少天、进账多少，一眼看清；已成交 / 已完工客户的详情页里也能直接给这单记一笔。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.52.ipa"
 }
