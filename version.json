@@ -1,6 +1,6 @@
 {
-  "version": "9.35",
-  "build": 107,
-  "notes": "报价单发送前能自查了：编辑器里点「发送前自查」，一页看清有没有漏项、没填价的行、总价是不是 0、过没过期、单名和备注里有没有误写微信电话、有没有关联客户；把单子标成「已发」时查出要留意的项会先弹清单，点「照样标已发」照样能发，只提醒不拦路。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.35.ipa"
+  "version": "9.36",
+  "build": 108,
+  "notes": "这一版是体检版：把最近五个版本（年度回顾图、采购标材料商、剩余材料登记本、完工顺手记剩料、报价发送前自查）逐项又查了一遍，29 项实测全过，没查出问题；报价、成交、收款、尾款的算法和以前一个字没变，备份存取也复查过。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.36.ipa"
 }
