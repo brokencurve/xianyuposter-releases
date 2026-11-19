@@ -1,6 +1,6 @@
 {
-  "version": "9.80",
-  "build": 152,
-  "notes": "桌面小组件加了自检：干活记录页汇总卡下面多了一行小组件状态，数据同步没同步一眼能看到，对不上点「刷新小组件」就重写一遍。点那行进去能看三项检查——共享通道通没通、数写进去能不能读回来、小组件那边的数和 App 里对不对得上；要是小组件一直只显示占位，把详情页截图发我们就能定位断在哪。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.80.ipa"
+  "version": "9.81",
+  "build": 153,
+  "notes": "干活记录的列表行带上单价了：按每天固定价记的记录，行上小字多一段「每天 ¥300」（比如「3 天 · 2 人 · 每天 ¥300」），翻账时不用点进去，一眼就能核对这笔是按多少钱一天记的。客户详情里的干活记录行也一样带上了；没用固定价记的记录照旧。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.81.ipa"
 }
