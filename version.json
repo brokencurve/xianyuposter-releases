@@ -1,7 +1,11 @@
-
 {
- "version": "9.53",
- "build": 125,
- "notes": "新功能「桌面小组件」：长按手机桌面 → 添加小组件 → 找「装修助手」的「本月干活」，本月干了几单活、共多少天、进账多少钱，不打开 App 在桌面上就能看。数跟着干活记录走，记一笔新的就更新，和记录页顶上的本月汇总同一个数。小组件能不能加上、能不能读到数取决于装 App 的签名方式，要是一直显示占位，把情况告诉我们。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.53.ipa"
+
+  "version": "9.54",
+
+  "build": 126,
+
+  "notes": "「材料用量估算」从三项扩到七项：新加水泥沙子（铺砖砂浆，按铺贴面积和砂浆层厚出水泥袋数、沙子方数）、地板（按面积、损耗和每箱覆盖出箱数）、腻子粉（按墙面面积和遍数出袋数）、防水涂料（卫生间面积单独填，出桶数），系数全标「估算」、页面上能改。算出的数量照样一键存成采购清单：规格只写产品参数，面积、层厚这些每单不同的数记在清单备注里，换个工地买同款料，上次买价照样提示得出。数据和设置原样保留。",
+
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.54.ipa"
+
 }
