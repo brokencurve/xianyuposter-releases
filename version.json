@@ -1,6 +1,6 @@
 {
-  "version": "9.31",
-  "build": 103,
-  "notes": "新功能：年度回顾图——历史页经营统计的「年度小结」旁点「生成年度回顾图」，一键出一张能发朋友圈的年终总结：这一年完工了几家、成交多少、实收多少、发了多少帖，再加一行做得最多的服务，数字和年度小结同一批，哪一项是 0 就不出哪一项。图里只有汇总数字，没有客户姓名和电话；落款用你设置里报价单抬头的那个名字，没填就不落款。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.31.ipa"
+  "version": "9.32",
+  "build": 104,
+  "notes": "新功能：采购清单每一行能标「在哪家买」了——先在材料商通讯录里存好常去的店，编辑采购清单时每行下面就能选一家；合并采购单上会把每样料标的店名列出来，电话旁边带拨号按钮，出门前先打个电话问有没有货。删掉一家店时，清单行上标的这家会自动摘掉。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.32.ipa"
 }
