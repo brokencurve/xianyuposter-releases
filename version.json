@@ -1,6 +1,6 @@
 {
-  "version": "9.75",
-  "build": 147,
-  "notes": "干活记录的月汇总卡多了一行「平均每天」：拿这个月总进账 ÷ 总天数现算，翻到哪个月就看哪个月的平均，哪个月干得值一眼有数；这个月天数或进账是 0 时这行就不出，不拿 ¥0 冒充。「今年累计」那行还是老样子，只报总数。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.75.ipa"
+  "version": "9.76",
+  "build": 148,
+  "notes": "客户详情的「干活记录」区现在逐条列出这家的每笔记录，跨天的活日期和记录页一样显示成「17号–19号」，点一条就能进去改；统计页「干活记录」卡里，本月行下面多了一行「本月平均每天」——本月总进账 ÷ 总天数，和干活记录页同一个数，天数或进账是 0 时不出。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.76.ipa"
 }
