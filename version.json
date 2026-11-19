@@ -1,6 +1,6 @@
 {
- "version": "9.69",
- "build": 141,
- "notes": "小红书和短视频的标题变多了：每个服务的小红书标题、极简标题都从 2 条补到 6 条，换着出，连着发也不容易发重样。普通标题和正文的池子没动，还是原来那些；这次只是把这两个小池子补齐。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.69.ipa"
+  "version": "9.70",
+  "build": 142,
+  "notes": "采购清单里能直接登记剩余材料了：清单详情里每一行填了材料名的，下面多一个「登记为剩余材料」，点开就是登记页，材料名、规格、单位和这张单挂的客户都帮你带好，你只填还剩多少。还剩多少不替你预填：买了多少不等于剩多少，按仓库里实际剩下的数填；登记完，下次采购填到同名材料照样会提醒你仓库里还有。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.70.ipa"
 }
