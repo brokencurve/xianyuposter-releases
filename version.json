@@ -1,6 +1,6 @@
 {
-  "version": "9.87",
-  "build": 159,
-  "notes": "删东西之前先问一句了：账号、我的模板、历史文案、话术、报价单的行、方案的步骤、自定义敏感词——以前左滑一下就删掉，手滑了找不回来；现在左滑会先弹一句确认，点了「删除」才真删，点「取消」什么都不动。其他地方没动，数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.87.ipa"
+  "version": "9.88",
+  "build": 160,
+  "notes": "防手滑补齐了：报价单里「我用过的」常用项目、海报配方、当前草稿——这三处以前删了不问一声，现在删之前都会先弹确认，点了「删除」才真删。几处写着左滑删除的说明文字也补上了「会先让你确认」。其他地方没动，数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.88.ipa"
 }
