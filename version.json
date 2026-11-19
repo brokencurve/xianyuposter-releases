@@ -1,6 +1,6 @@
 {
-  "version": "9.70",
-  "build": 142,
-  "notes": "采购清单里能直接登记剩余材料了：清单详情里每一行填了材料名的，下面多一个「登记为剩余材料」，点开就是登记页，材料名、规格、单位和这张单挂的客户都帮你带好，你只填还剩多少。还剩多少不替你预填：买了多少不等于剩多少，按仓库里实际剩下的数填；登记完，下次采购填到同名材料照样会提醒你仓库里还有。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.70.ipa"
+  "version": "9.71",
+  "build": 143,
+  "notes": "节日问候页顶部多了一行：下一个节日是哪天、还有几天，帮你盯着日子，不用自己记。剩 7 天以内那行会变橙色加粗，当天直接提醒你问候可以发了（节日日期排到 2027 年底）。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.71.ipa"
 }
