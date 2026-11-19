@@ -1,10 +1,10 @@
 
 {
 
-  "version": "9.57",
+  "version": "9.58",
 
-  "build": 129,
-  "notes": "材料商详情页加了「导航去店里」：通讯录里填了店地址的，地址下面多一个导航按钮，点一下打开苹果地图，按店名加地址搜，去店里买料直接导航。和客户详情的「导航去客户家」一个用法、同一套拼法；没填地址的店就不出这一行，地址只写了「建材城」这种也照样能点，地图自己搜。数据和设置原样保留。",
+  "build": 130,
+  "notes": "干活记录能按月翻看了：记录页汇总卡上多了左右箭头，点一下换一个月，汇总的单数、天数、进账和下面的记录列表一起跟着换，都是按干活日期归月——上个月干了多少活、进账多少，翻过去就看到。翻到的月份一笔没记会明说，旁边有「回本月」一键回来；往未来翻不了。工具页入口小字和桌面小组件还是本月数，不跟着翻。数据和设置原样保留。",
 
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.57.ipa"
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.58.ipa"
 }
