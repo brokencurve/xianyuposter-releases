@@ -1,6 +1,6 @@
 {
-  "version": "9.28",
-  "build": 100,
-  "notes": "应收总览里能直接催款了：左滑一行点「复制催款话术」，一句现成的催尾款话术就复制好，去聊天里粘贴发给业主，不用再点进客户详情里找。挑的话术和客户详情收款区那个按钮是同一句（同一套挑法），复制后时间线里同样会记一笔哪天催过、当时还差多少，翻账对得上。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.28.ipa"
+  "version": "9.29",
+  "build": 101,
+  "notes": "完工交付图能带收款码了：先到「设置 → 更多设置 → 我的收款码」从相册存一张你的收款码，出完工交付图时打开「附上我的收款码」，码就拼在图最下面带「扫码付尾款」，业主存一张图就能扫码付钱。开关只在存过收款码时才出，每次出图要自己开、不记着，不会把收款码带到别的图上；没存码时交付图和以前一模一样。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.29.ipa"
 }
