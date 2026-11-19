@@ -1,6 +1,6 @@
 {
-  "version": "9.90",
-  "build": 162,
-  "notes": "这一版是体检版：把最近四个版本（按钮更好按、删东西前先确认、收款收据图）逐项又查了一遍，实测全过——按钮只是变好按、点下去做的事没变；十处删除都改成了先弹框问一句、点「删除」才真删；收据图上的金额大写拿三十个金额逐个验过。报价、成交、收款、尾款的算法和以前一个字没变，数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.90.ipa"
+  "version": "9.91",
+  "build": 163,
+  "notes": "报价单能一键生成合同了：在报价单列表里长按一张单（或往右滑）点「生成合同」，客户、金额、工种都从这张单带过去，生成完直接打开合同页，补上付款节点就能签。带过去的是应收总额和按工种出的标准工程内容，质保用你设置里那份；付款节点、开工日期不替你定，打开草稿后现填。作废的单不起合同；还没关联客户的单也能起，甲方在合同页现选现填。合同点生成那一下就存进存档，原报价单一个字不动，删了报价单也不会删合同。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.91.ipa"
 }
