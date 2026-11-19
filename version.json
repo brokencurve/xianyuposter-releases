@@ -1,6 +1,6 @@
 {
-  "version": "9.38",
-  "build": 110,
-  "notes": "施工地页最下面「质保快到期」名单里，左滑一行就能复制回访话术：现成话术带客户称呼，去微信粘贴就能发给老客户，不用再点进详情里找；只是复制，不会把他记成已回访，真回访过了去客户详情点「记一次回访」留痕。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.38.ipa"
+  "version": "9.39",
+  "build": 111,
+  "notes": "完工结算单图也能附收款码了：出图时打开「附上我的收款码」，收款码拼在结算图最下面带「扫码付尾款」，业主对着这张图就能扫码付尾款（先在设置里存好收款码才有这个开关）；开关每次出图现开现关、不落库，存下来的结算快照图不带收款码。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.39.ipa"
 }
