@@ -1,6 +1,6 @@
 {
-  "version": "9.71",
-  "build": 143,
-  "notes": "节日问候页顶部多了一行：下一个节日是哪天、还有几天，帮你盯着日子，不用自己记。剩 7 天以内那行会变橙色加粗，当天直接提醒你问候可以发了（节日日期排到 2027 年底）。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.71.ipa"
+  "version": "9.72",
+  "build": 144,
+  "notes": "采购清单里给材料行标「在哪买」时，碰到新店不用再退出去存通讯录了：选店菜单最下面有「新建材料商」，当场建完自动标到这一行。通讯录里一家店都还没存时，选店那一行也照样出了，第一家店直接在清单里就能建。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.72.ipa"
 }
