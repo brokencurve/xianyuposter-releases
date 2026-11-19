@@ -1,6 +1,6 @@
 {
-  "version": "9.92",
-  "build": 164,
-  "notes": "增项确认单图也能附收款码了：出图弹层里打开「附上我的收款码」，收款码拼在增项单图最下面，带「扫码付增项款」，业主确认增项时对着图就能扫码付增项款。开关跟结算单图一个口径：先在「更多设置 → 我的收款码」存了码才出、默认关、不落库。开关关着时增项单图和以前一模一样；交付包和结算单图的收款码还是「扫码付尾款」，没变。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.92.ipa"
+  "version": "9.93",
+  "build": 165,
+  "notes": "客户详情的「他的合同」里，每份合同下面多了一行收款进度：下一笔该收哪个节点、还差多少钱，在客户页一眼就能看到，不用再点进合同里翻。节点款全收齐的合同会写「节点款已收齐」；合同金额没填或没排付款节点的，就不出这一行，不会瞎报状态。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.93.ipa"
 }
