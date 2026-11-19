@@ -1,6 +1,6 @@
 {
-  "version": "9.44",
-  "build": 116,
-  "notes": "采购清单能「照这张再买一单」了：老工地买过的材料清单在详情里点一下，整张复制成新单——材料、规格、数量、标的店全带过去，生成后直接跳到新单改数量下单；新单已买状态全清、单价留空到店里现填，填价时有上次买价灰字提示。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.44.ipa"
+  "version": "9.45",
+  "build": 117,
+  "notes": "快开工的工地，在施工地页「即将开工」里每行下面多了一行「开工准备」：合同签了没、材料买齐没、施工方案存了没，齐了标绿、缺哪样橙字点名，开工前照着补。三样都是拿你记好的数据现算的：一张采购单都没建过不算缺料，只有真有清单没买完才标缺。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.45.ipa"
 }
