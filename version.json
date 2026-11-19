@@ -1,6 +1,6 @@
 {
-  "version": "9.47",
-  "build": 119,
-  "notes": "完工交付包发送前自查：从客户详情发完工确认、到了海报页，完工交付款下面多了「发之前自查」——点开按这位客户把包过一遍：完工照片、对账快照、完工日期、验收齐没齐，缺哪样先提醒你回哪儿补。尾款还没结清不算缺项，是蓝色知情提醒：包里带着对账摘要，出图开上收款码开关，业主对完账扫码就能付。自查只提醒、不拦出图。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.47.ipa"
+ "version": "9.48",
+ "build": 120,
+ "notes": "这一版是体检版：把最近五个版本（统计页材料花费、采购清单照单再买、开工前备齐检查、完工请好评、完工交付包发送前自查）逐项又查了一遍，66 项实测全过，没查出问题。顺带把老规矩又对了一遍：报价、成交、收款、尾款的算法和以前一个字没变，备份存取也复查过。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.48.ipa"
 }
