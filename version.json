@@ -1,6 +1,6 @@
 {
-  "version": "9.40",
-  "build": 112,
-  "notes": "材料商通讯录点开一家店有详情页了：主营、联系方式、地址、备注和今年采购额都在上面，改资料点右上角「编辑」；详情页下面是在这家买过的每一样材料：规格、数量、单价、哪张单、什么时候都列着，没填价的也列（规格照样有用），点一条跳回那张采购清单——下次订货照着买，不怕记错规格。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.40.ipa"
+  "version": "9.41",
+  "build": 113,
+  "notes": "材料用量估算转采购清单收了口径：只转数量算得出的项（美缝组数没算出来不再塞空行，缝长记在清单备注里）；行规格只带认产品的参数（瓷砖规格、每桶几升、每组覆盖几米），同一材料换个工地上次买价、合并单、剩余材料提示都对得上号；标题标明（用量估算），每点一次新建一张不覆盖。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.41.ipa"
 }
