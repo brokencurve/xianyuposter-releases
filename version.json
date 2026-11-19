@@ -1,6 +1,6 @@
 {
-  "version": "9.78",
-  "build": 150,
-  "notes": "记一笔干活多了「每天固定（元/天）」：先填每天固定多少钱，再填干了几天，进账自动算出来（每天价 × 天数），不用自己乘完再填。进账还是能直接改，手改完以你改的为准；人数照常记，不参与这个计算。导出表格里多了一列「每天（元）」。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.78.ipa"
+  "version": "9.79",
+  "build": 151,
+  "notes": "这一版是体检版：把最近五个版本（干活记录选几号到几号、每天多少钱反推、月平均每天、桌面小组件平均每天、每天固定价自动算进账）逐项又查了一遍，84 项实测全过，数和账都没问题，不用重新学什么。报价、成交、收款、尾款的算法和以前一个字没变。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.79.ipa"
 }
