@@ -1,7 +1,6 @@
-
 {
- "version": "9.62",
- "build": 134,
- "notes": "客户详情里这家的干活记录小计改走和本月汇总、全年累计同一个算法了：在这家一共干了几单、多少天、进账多少，三个地方的数永远一致，不会各算各的。小计只算记账时挂了这位客户的记录；没挂客户、只手填地点的活不会算进任何客户名下。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.62.ipa"
+ "version": "9.63",
+ "build": 135,
+ "notes": "统计页靠后多了一节「干活记录」（默认收起，点标题展开）：本月和今年累计两行——干了几单活、多少天、进账多少，和干活记录页、桌面小组件是同一把尺。提醒一句：干活记录的进账是你自己记的每单活的钱，和统计页上面收款记的客户付款是两本账，两边对不上是正常的；今年一笔干活记录都没记时，这一节不出现。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.63.ipa"
 }
