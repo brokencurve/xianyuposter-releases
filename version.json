@@ -1,6 +1,6 @@
 {
-  "version": "9.32",
-  "build": 104,
-  "notes": "新功能：采购清单每一行能标「在哪家买」了——先在材料商通讯录里存好常去的店，编辑采购清单时每行下面就能选一家；合并采购单上会把每样料标的店名列出来，电话旁边带拨号按钮，出门前先打个电话问有没有货。删掉一家店时，清单行上标的这家会自动摘掉。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.32.ipa"
+  "version": "9.33",
+  "build": 105,
+  "notes": "新功能：剩余材料登记本——完工剩下的瓷砖、油漆、管件登记在册（哪单剩的、剩多少），入口在工具页「工作区 → 剩余材料登记本」，用掉一部分能在登记里直接扣数、正好用完自动销掉；编辑采购清单填到同名材料时会提示「仓库还剩 X」，先核对仓库再买，别重复买。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.33.ipa"
 }
