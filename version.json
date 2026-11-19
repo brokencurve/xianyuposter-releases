@@ -1,6 +1,6 @@
 {
-  "version": "9.39",
-  "build": 111,
-  "notes": "完工结算单图也能附收款码了：出图时打开「附上我的收款码」，收款码拼在结算图最下面带「扫码付尾款」，业主对着这张图就能扫码付尾款（先在设置里存好收款码才有这个开关）；开关每次出图现开现关、不落库，存下来的结算快照图不带收款码。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.39.ipa"
+  "version": "9.40",
+  "build": 112,
+  "notes": "材料商通讯录点开一家店有详情页了：主营、联系方式、地址、备注和今年采购额都在上面，改资料点右上角「编辑」；详情页下面是在这家买过的每一样材料：规格、数量、单价、哪张单、什么时候都列着，没填价的也列（规格照样有用），点一条跳回那张采购清单——下次订货照着买，不怕记错规格。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.40.ipa"
 }
