@@ -1,6 +1,6 @@
 {
-  "version": "9.79",
-  "build": 151,
-  "notes": "这一版是体检版：把最近五个版本（干活记录选几号到几号、每天多少钱反推、月平均每天、桌面小组件平均每天、每天固定价自动算进账）逐项又查了一遍，84 项实测全过，数和账都没问题，不用重新学什么。报价、成交、收款、尾款的算法和以前一个字没变。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.79.ipa"
+  "version": "9.80",
+  "build": 152,
+  "notes": "桌面小组件加了自检：干活记录页汇总卡下面多了一行小组件状态，数据同步没同步一眼能看到，对不上点「刷新小组件」就重写一遍。点那行进去能看三项检查——共享通道通没通、数写进去能不能读回来、小组件那边的数和 App 里对不对得上；要是小组件一直只显示占位，把详情页截图发我们就能定位断在哪。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.80.ipa"
 }
