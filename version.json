@@ -1,6 +1,6 @@
 {
-  "version": "9.46",
-  "build": 118,
-  "notes": "完工请好评一键话术：已完工客户的详情里多了「请好评」一区，完工结算页「发给业主」里也有同一个按钮，点一下请好评的话就复制好、带客户称呼，去聊天里粘贴就能发。话术只挑话术库里请好评类的（带「好评」、不带「回访」），和完工回访的话分开挑、不抢同一条；库里没有合适的就用内置那句。只是复制，不记时间线。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.46.ipa"
+  "version": "9.47",
+  "build": 119,
+  "notes": "完工交付包发送前自查：从客户详情发完工确认、到了海报页，完工交付款下面多了「发之前自查」——点开按这位客户把包过一遍：完工照片、对账快照、完工日期、验收齐没齐，缺哪样先提醒你回哪儿补。尾款还没结清不算缺项，是蓝色知情提醒：包里带着对账摘要，出图开上收款码开关，业主对完账扫码就能付。自查只提醒、不拦出图。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.47.ipa"
 }
