@@ -1,10 +1,7 @@
 
 {
-
-  "version": "9.58",
-
-  "build": 130,
-  "notes": "干活记录能按月翻看了：记录页汇总卡上多了左右箭头，点一下换一个月，汇总的单数、天数、进账和下面的记录列表一起跟着换，都是按干活日期归月——上个月干了多少活、进账多少，翻过去就看到。翻到的月份一笔没记会明说，旁边有「回本月」一键回来；往未来翻不了。工具页入口小字和桌面小组件还是本月数，不跟着翻。数据和设置原样保留。",
-
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.58.ipa"
+  "version": "9.59",
+  "build": 131,
+  "notes": "干活记录页汇总卡下面多了一行全年累计：「2026年累计 N 单活 · 共 X 天 · 进账 ¥Y」，今年一共干了多少活、多少天、进账多少一眼就有数，和月汇总同一把尺。全年累计跟着你翻看的月份走年份：翻到去年的月份就是去年的全年累计，翻旧账也对得上；那一年一笔没记时这行不出。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.59.ipa"
 }
