@@ -1,6 +1,6 @@
 {
-  "version": "9.93",
-  "build": 165,
-  "notes": "客户详情的「他的合同」里，每份合同下面多了一行收款进度：下一笔该收哪个节点、还差多少钱，在客户页一眼就能看到，不用再点进合同里翻。节点款全收齐的合同会写「节点款已收齐」；合同金额没填或没排付款节点的，就不出这一行，不会瞎报状态。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.93.ipa"
+  "version": "9.94",
+  "build": 166,
+  "notes": "客户列表里欠尾款的，行上直接带橙字「尾款还差 ¥X」：以前只标已完工的，现在已成交还没完工、钱没收满的也标了，扫一眼列表就知道谁欠多少。这个数和应收总览、尾款未结清筛选是同一把尺，收齐了自动消失；没记成交额的不瞎标。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.94.ipa"
 }
