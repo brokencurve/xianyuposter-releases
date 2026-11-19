@@ -1,6 +1,7 @@
+
 {
-  "version": "9.61",
-  "build": 133,
-  "notes": "这一版是体检版：把最近五个版本（界面整洁、材料商导航去店里、干活记录按月翻看、全年累计、导出表格对账）逐项又查了一遍，56 项实测全过，数和账都没问题。顺带改对一句提示：干活记录编辑页原来写金额「计进本月汇总」，翻到往月的记录打开编辑时会说错月份，改成「计进月汇总」。报价、成交、收款、尾款的算法和以前一个字没变；备份该带的一样不少（干活记录在内）；桌面小组件读的还是同一个本月数。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.61.ipa"
+ "version": "9.62",
+ "build": 134,
+ "notes": "客户详情里这家的干活记录小计改走和本月汇总、全年累计同一个算法了：在这家一共干了几单、多少天、进账多少，三个地方的数永远一致，不会各算各的。小计只算记账时挂了这位客户的记录；没挂客户、只手填地点的活不会算进任何客户名下。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.62.ipa"
 }
