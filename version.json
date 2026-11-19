@@ -1,6 +1,6 @@
 {
- "version": "9.49",
- "build": 121,
- "notes": "年度回顾图上多了一项「材料花费」：这一年买材料一共花了多少，和统计页材料花费卡上是同一个数，年底晒年终总结，进账和出账都齐了。这一年没买料，这一项就不出；反过来哪一年只有买了料、别的都还是 0，这张图现在也出得来了。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.49.ipa"
+ "version": "9.50",
+ "build": 122,
+ "notes": "在施工地页「即将开工」名单里，左滑一家点「复制开工通知」：带客户称呼和合同开工日期的通知现成复制好，还写清了开工前请业主配合的三件事——腾空施工的房间、留一把钥匙、贵重物品先收好，粘贴就能发。话术库加一条带「开工通知」的话术就会优先用你的版本，文案里的 {日期} 自动换成开工那天。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.50.ipa"
 }
