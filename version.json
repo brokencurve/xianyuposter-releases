@@ -1,6 +1,6 @@
 {
-  "version": "9.88",
-  "build": 160,
-  "notes": "防手滑补齐了：报价单里「我用过的」常用项目、海报配方、当前草稿——这三处以前删了不问一声，现在删之前都会先弹确认，点了「删除」才真删。几处写着左滑删除的说明文字也补上了「会先让你确认」。其他地方没动，数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.88.ipa"
+  "version": "9.89",
+  "build": 161,
+  "notes": "新功能：收款收据图——客户详情「收款」区里，每笔收款右边多了「收据图」，点开就是这一笔的收据：金额带人民币大写，记了成交额的还带已收合计和还差多少，存相册或分享发给业主当凭证。和原来的「收款明细图」分工：明细图是一个客户全部收款的对账长图，收据图只出你点中的这一笔。其他地方没动，数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.89.ipa"
 }
