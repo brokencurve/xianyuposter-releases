@@ -1,6 +1,6 @@
 {
-  "version": "9.34",
-  "build": 106,
-  "notes": "完工收尾能顺手登记剩余材料了：客户详情（已成交 / 已完工的客户）「剩余材料」区和完工结算页「收尾」区都有「登记这单的剩余材料」入口，点开来源已选好这个客户，站在工地就能把剩料记进登记本；这单已登记过的，入口下面会写「已登记 N 样」。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.34.ipa"
+  "version": "9.35",
+  "build": 107,
+  "notes": "报价单发送前能自查了：编辑器里点「发送前自查」，一页看清有没有漏项、没填价的行、总价是不是 0、过没过期、单名和备注里有没有误写微信电话、有没有关联客户；把单子标成「已发」时查出要留意的项会先弹清单，点「照样标已发」照样能发，只提醒不拦路。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.35.ipa"
 }
