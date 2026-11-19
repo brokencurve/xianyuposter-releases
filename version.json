@@ -1,6 +1,6 @@
 {
-  "version": "9.74",
-  "build": 146,
-  "notes": "干活记录两件：一是记账时能算每天多少钱了——进账、天数一填，下面实时出「每天 ¥X」，人数也填了还带「每人每天 ¥Y」（300 块干 2.5 天、2 个人，就是每天 ¥120、每人每天 ¥60）。二是干活日期能选「几号到几号」：加个结束日期，天数按头尾包含自动算（17 号到 19 号 = 3 天），实际天数不一样直接改「干了几天」、不会被日期冲掉；归月还是只认开始那天，列表里跨天的活显示成「17号–19号」，导出的表格也多了一列「结束日期」。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.74.ipa"
+  "version": "9.75",
+  "build": 147,
+  "notes": "干活记录的月汇总卡多了一行「平均每天」：拿这个月总进账 ÷ 总天数现算，翻到哪个月就看哪个月的平均，哪个月干得值一眼有数；这个月天数或进账是 0 时这行就不出，不拿 ¥0 冒充。「今年累计」那行还是老样子，只报总数。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.75.ipa"
 }
