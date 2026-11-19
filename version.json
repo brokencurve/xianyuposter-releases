@@ -1,6 +1,6 @@
 {
-  "version": "9.29",
-  "build": 101,
-  "notes": "完工交付图能带收款码了：先到「设置 → 更多设置 → 我的收款码」从相册存一张你的收款码，出完工交付图时打开「附上我的收款码」，码就拼在图最下面带「扫码付尾款」，业主存一张图就能扫码付钱。开关只在存过收款码时才出，每次出图要自己开、不记着，不会把收款码带到别的图上；没存码时交付图和以前一模一样。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.29.ipa"
+  "version": "9.30",
+  "build": 102,
+  "notes": "这一版是体检版，没有新功能：把最近五个版本（文案池扩充、报价历史价、材料商通讯录、应收催款、交付包收款码）从头到尾复查了一遍，29 项实测断言全部通过，没查出真毛病——数据备份能完整存下再读回、报价历史价只认你亲手报的价、收款码和材料商都稳妥。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.30.ipa"
 }
