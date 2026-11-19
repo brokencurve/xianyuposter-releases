@@ -1,6 +1,6 @@
 {
-  "version": "9.42",
-  "build": 114,
-  "notes": "这一版是体检版：把最近五个版本（材料商采购额、质保快到期左滑回访、结算单图附收款码、材料商采购明细、材料用量估算转采购清单）逐项又查了一遍，38 项实测全过，没查出问题；报价、成交、收款、尾款的算法和以前一个字没变，备份存取也复查过。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.42.ipa"
+  "version": "9.43",
+  "build": 115,
+  "notes": "统计页多了一节「材料花费」：今年买材料一共花了多少钱一眼看清（没标店的行也算在总账里，标了在哪家店买的单独报一个数）；花得最多的三家店点一行进店里看买过什么；还有几张采购清单没买完也在这节提醒，点一下去存档接着买。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.43.ipa"
 }
