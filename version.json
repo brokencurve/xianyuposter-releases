@@ -1,6 +1,6 @@
 {
- "version": "9.48",
- "build": 120,
- "notes": "这一版是体检版：把最近五个版本（统计页材料花费、采购清单照单再买、开工前备齐检查、完工请好评、完工交付包发送前自查）逐项又查了一遍，66 项实测全过，没查出问题。顺带把老规矩又对了一遍：报价、成交、收款、尾款的算法和以前一个字没变，备份存取也复查过。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.48.ipa"
+ "version": "9.49",
+ "build": 121,
+ "notes": "年度回顾图上多了一项「材料花费」：这一年买材料一共花了多少，和统计页材料花费卡上是同一个数，年底晒年终总结，进账和出账都齐了。这一年没买料，这一项就不出；反过来哪一年只有买了料、别的都还是 0，这张图现在也出得来了。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.49.ipa"
 }
