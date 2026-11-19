@@ -1,6 +1,7 @@
+
 {
- "version": "9.67",
- "build": 139,
- "notes": "这一版是体检版：把最近五个版本（客户页干活小计、统计页干活卡、年度回顾加干活天数、干活记录搜索、导出全年表格）逐项又查了一遍，41 项实测全过，数和账都没问题。干活记录这本账在客户页、记录页、统计页、桌面小组件走同一把尺，在哪看都是一个数；报价、成交、收款、尾款的算法和以前一个字没变。数据和设置原样保留。",
- "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.67.ipa"
+ "version": "9.68",
+ "build": 140,
+ "notes": "设置页「数据备份」区现在会写清上次导出备份的时间：像「上次导出备份：2026年11月15日（4 天前）」这样；还没导过会明说，超过 30 天没再导，那一行会转成橙字提醒你再导一份存好。这个时间只记你手动点「导出全部数据」导出的那一份，和 iCloud 自动备份的「上次备份成功」是分开的两行、两回事；iCloud 那边这一版没动。数据和设置原样保留。",
+ "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.68.ipa"
 }
