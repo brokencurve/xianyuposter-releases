@@ -1,6 +1,6 @@
 {
-  "version": "9.83",
-  "build": 155,
-  "notes": "报价单列表里，没成交、没作废的单子，行上会直接标出有效期：还剩几天（剩 7 天以内橙字、再多灰字）、今天到期、已过期几天（红字），不用点开单子翻。已发的单子快到期那几天行上本来就有「快到期 · 剩 N 天」，那几张照旧看那一行，不重复标。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.83.ipa"
+  "version": "9.84",
+  "build": 156,
+  "notes": "客户详情里的「TA的报价单」，每张单行上也标出有效期了：还剩几天（剩 7 天以内橙字、再多灰字）、今天到期、已经过期几天（红字），和报价单列表里同一个角标。已发的单子快到期那几天照旧看「快到期 · 剩 N 天」那一行，不重复标。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.84.ipa"
 }
