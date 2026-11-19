@@ -1,6 +1,6 @@
 {
-  "version": "9.77",
-  "build": 149,
-  "notes": "桌面小组件「本月干活」多了一行「平均每天 ¥Z」：本月总进账 ÷ 总天数，和干活记录页、统计页里的平均每天同一个数，不用打开 App 在桌面上就能看到；这个月天数或进账是 0 时这行不出，不拿 ¥0 冒充。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.77.ipa"
+  "version": "9.78",
+  "build": 150,
+  "notes": "记一笔干活多了「每天固定（元/天）」：先填每天固定多少钱，再填干了几天，进账自动算出来（每天价 × 天数），不用自己乘完再填。进账还是能直接改，手改完以你改的为准；人数照常记，不参与这个计算。导出表格里多了一列「每天（元）」。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.78.ipa"
 }
