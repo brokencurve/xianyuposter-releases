@@ -1,7 +1,6 @@
-
 {
-  "version": "9.59",
-  "build": 131,
-  "notes": "干活记录页汇总卡下面多了一行全年累计：「2026年累计 N 单活 · 共 X 天 · 进账 ¥Y」，今年一共干了多少活、多少天、进账多少一眼就有数，和月汇总同一把尺。全年累计跟着你翻看的月份走年份：翻到去年的月份就是去年的全年累计，翻旧账也对得上；那一年一笔没记时这行不出。数据和设置原样保留。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.59.ipa"
+  "version": "9.60",
+  "build": 132,
+  "notes": "干活记录能导表格了：汇总卡下面点「导出 {年月}」，把正在看的那个月的记录导成 CSV 表格（一行一笔、最后一行带合计），发微信给合伙人、家里人对账，或者存到电脑上用 Excel 打开都行。表格按日期从早到晚排，金额、天数、人数只出读得出的数、读不出的留空；合计和页面汇总卡是同一个数，逐分对得上；那个月一笔没记时只提示、不导空表。数据和设置原样保留。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.60.ipa"
 }
