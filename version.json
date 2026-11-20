@@ -1,6 +1,6 @@
 {
-  "version": "10.21",
-  "build": 193,
-  "notes": "例行体检版：把最近三个版本（案例发帖接线、收款流水加搜索、接线复查）逐项又查了一遍，三十五项实测全过，数和账都没问题。这一版没有新功能。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.21.ipa"
+  "version": "10.22",
+  "build": 194,
+  "notes": "修一个说法对不上的小毛病：增项总额算出来是负数时，自查提示以前会说成「算出来是 ¥0」，现在如实说负数。顺手把全 App 金额变文字的地方都核了一遍。这一版只改说法，金额算法一个没动。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.22.ipa"
 }
