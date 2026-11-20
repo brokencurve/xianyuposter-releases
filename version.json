@@ -1,6 +1,6 @@
 {
-  "version": "9.98",
-  "build": 170,
-  "notes": "采购清单详情页顶部多了汇总行：打开一张清单就看到「一共 ¥X · 已买 ¥Y · 还差 ¥Z 没买」，在店里照单买料不用逐行心算；改数量、填单价、勾已买，汇总当场跟着变。还没填单价的行不算钱、只单独报行数；一行价都没填时只报「共 N 行，还没填价」，不摆假总数。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.98.ipa"
+  "version": "9.99",
+  "build": 171,
+  "notes": "增项确认单发业主之前多了发送前自查：金额算不出来或是0、明细空着、开了收款码却没金额，会先弹一页清单提醒你核对，只提醒不改数，点「照样发出」就按原样发。没关联客户、已经确认过的单重发只是蓝字提醒，不拦路。报价、完工交付包、结算、增项四类单据的发送前自查就此齐了。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.99.ipa"
 }
