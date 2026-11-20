@@ -1,6 +1,6 @@
 {
-  "version": "9.96",
-  "build": 168,
-  "notes": "这一版是体检版：把最近五个版本（报价单生成合同、增项单图附收款码、客户页看合同收款进度、尾款标记三处对齐）逐项又查了一遍，四十七项实测全过，数和账都没问题，不用重新学什么。报价单生成的合同金额和报价单应收一分不差；三处出图附的收款码还是同一套，开关关着图和以前一模一样；客户列表、在施工地、应收总览三处的尾款标记同一批人、同一个数。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.96.ipa"
+  "version": "9.97",
+  "build": 169,
+  "notes": "完工结算单出图、复制全文之前，多了一道发送前自查：合同金额的来源（合同存档 / 报价单 / 手填）、有没有未确认的增项没算进去、已收有没有超过应收、质保到期盯不盯得了，一页摆清。有要留意的才弹清单，核对完点「照样发出」就按原样发——只提醒、不改数、不拦路；都没问题直接出图，跟以前一样。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.97.ipa"
 }
