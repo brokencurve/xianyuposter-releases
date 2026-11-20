@@ -1,6 +1,6 @@
 {
-  "version": "10.4",
-  "build": 176,
-  "notes": "客户跟进本顶部多了搜索框：按称呼、小区、服务、电话、备注搜客户，客户多了不用一页页翻；和原来的筛选能叠着用，清空搜索就回到全部。其他存档页（报价单、合同、增项、采购清单、方案、案例、材料商、剩余材料）本来就有搜索，这次把客户列表这一页补齐。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.4.ipa"
+  "version": "10.5",
+  "build": 177,
+  "notes": "报价单列表行上直接标「已生成合同」了：哪张单已经生成过合同一眼能看出来，不用再长按试；长按或右滑照样点「查看合同」打开那一份。作废的单不标（作废单本来也不起合同）。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.5.ipa"
 }
