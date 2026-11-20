@@ -1,6 +1,6 @@
 {
-  "version": "10.16",
-  "build": 188,
-  "notes": "空页面都给下一步了：合同存档、增项存档、采购清单存档、话术库这四页，以前没数据时只有一行说明、要去右上角找加号；现在说明下面直接有按钮——新建合同、新建增项单、去材料用量估算（算完存成采购清单）、加一条话术，点一下就到地方。其余页面的空提示本来就带按钮，这次逐页核对过没动；搜不到东西时的提示还是只提醒换个词，不会让你误建新单。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.16.ipa"
+  "version": "10.17",
+  "build": 189,
+  "notes": "这一版是例行体检版：把最近四个版本（搜索大小写对齐、收款流水导出表格、客户名单补尾款和备注两列、四页空页面补按钮）逐项又查了一遍，四十四项实测全过，数和账都没问题，不用重新学什么。重点对了三处：合同、增项、采购三个存档页搜英文词大小写对不上不再漏；收款流水导出的表格合计和每个客户的已收总额逐笔对得上；客户名单剥掉新加的两列和以前一字不差。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.17.ipa"
 }
