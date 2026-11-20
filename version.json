@@ -1,6 +1,6 @@
 {
-  "version": "10.22",
-  "build": 194,
-  "notes": "修一个说法对不上的小毛病：增项总额算出来是负数时，自查提示以前会说成「算出来是 ¥0」，现在如实说负数。顺手把全 App 金额变文字的地方都核了一遍。这一版只改说法，金额算法一个没动。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.22.ipa"
+  "version": "10.23",
+  "build": 195,
+  "notes": "补两处发送前自查的负数提醒：报价单明细合计是负数时如实点名（多半是单价或数量填成了负数）；增项单开了收款码但总额是负数时，提醒先别开码。只改自查提醒，金额算法没动。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.23.ipa"
 }
