@@ -1,6 +1,6 @@
 {
-  "version": "9.95",
-  "build": 167,
-  "notes": "帮助里「尾款还差的标记是什么意思」改成和现在实际的一样了：成交了、钱没收满就标，完工没完工都算，和应收总览对得上。在施工地页行上的尾款标记，和客户列表、应收总览统一成同一套口径——三处同一批人、同一个数，不会对不上。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.95.ipa"
+  "version": "9.96",
+  "build": 168,
+  "notes": "这一版是体检版：把最近五个版本（报价单生成合同、增项单图附收款码、客户页看合同收款进度、尾款标记三处对齐）逐项又查了一遍，四十七项实测全过，数和账都没问题，不用重新学什么。报价单生成的合同金额和报价单应收一分不差；三处出图附的收款码还是同一套，开关关着图和以前一模一样；客户列表、在施工地、应收总览三处的尾款标记同一批人、同一个数。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.96.ipa"
 }
