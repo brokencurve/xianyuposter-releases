@@ -1,6 +1,6 @@
 {
-  "version": "10.28",
-  "build": 200,
-  "notes": "通知权限状态提示：系统里把通知关了（权限被拒）时，设置页「通知」区会多出一行橙字说明，点「去打开」跳到系统设置打开通知；权限正常时不显示。提醒的排期、时刻、开关口径没变",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.28.ipa"
+  "version": "10.29",
+  "build": 201,
+  "notes": "导出一致性普查版：报价单、客户名单、本月收款、收款流水、干活记录五张导出表逐项核对（防公式注入、中文编码、逗号引号转义、金额口径）全部合格，本版无功能改动，照常用就行",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.29.ipa"
 }
