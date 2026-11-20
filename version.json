@@ -1,6 +1,6 @@
 {
-  "version": "10.15",
-  "build": 187,
-  "notes": "客户 CSV 多了两列：客户页导出的表格（导出 CSV（Excel 用））新加「尾款还差」（紧跟已收金额，成交额减已收、和应收总览一个数；没记成交额算不出的留空，收齐的写 0）和「备注」（最后一列）；导出的文件名带上日期了（像「客户名单-2026年11月20日.csv」），其余九列和以前完全一样。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.15.ipa"
+  "version": "10.16",
+  "build": 188,
+  "notes": "空页面都给下一步了：合同存档、增项存档、采购清单存档、话术库这四页，以前没数据时只有一行说明、要去右上角找加号；现在说明下面直接有按钮——新建合同、新建增项单、去材料用量估算（算完存成采购清单）、加一条话术，点一下就到地方。其余页面的空提示本来就带按钮，这次逐页核对过没动；搜不到东西时的提示还是只提醒换个词，不会让你误建新单。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.16.ipa"
 }
