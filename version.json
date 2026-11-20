@@ -1,6 +1,6 @@
 {
-  "version": "10.23",
-  "build": 195,
-  "notes": "补两处发送前自查的负数提醒：报价单明细合计是负数时如实点名（多半是单价或数量填成了负数）；增项单开了收款码但总额是负数时，提醒先别开码。只改自查提醒，金额算法没动。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.23.ipa"
+  "version": "10.24",
+  "build": 196,
+  "notes": "修话术半截句：话术库里正文为空的条目（多半是老备份导进来的）不再被自动挑中，不会再复制出只有「某某您好，」半句话；有正常的用正常的，没有合适的用内置句。话术库本身没动，空条目补上正文就能再用。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.24.ipa"
 }
