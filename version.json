@@ -1,6 +1,6 @@
 {
-  "version": "10.7",
-  "build": 179,
-  "notes": "例行体检版：把最近四个版本（方案行步数、客户列表搜索、报价行合同标记、五类单据复制全文）逐项复查，51 项实测全过、零问题。五类单据的文字版和图同源同数，报价复制全文同样过发送前自查。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.7.ipa"
+  "version": "10.8",
+  "build": 180,
+  "notes": "帮助补齐版：新开两条帮助（客户列表里怎么搜人、单据除了发图还能复制全文发文字版），另在采购清单、报价单生成合同、施工方案存档三条里各补一句（清单汇总行、报价行「已生成合同」标记、方案行步数）。功能和数据都没动。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.8.ipa"
 }
