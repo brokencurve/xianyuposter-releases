@@ -1,6 +1,6 @@
 {
-  "version": "10.29",
-  "build": 201,
-  "notes": "导出一致性普查版：报价单、客户名单、本月收款、收款流水、干活记录五张导出表逐项核对（防公式注入、中文编码、逗号引号转义、金额口径）全部合格，本版无功能改动，照常用就行",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.29.ipa"
+  "version": "10.30",
+  "build": 202,
+  "notes": "材料统计归类账修复版：统计页「材料花费」里负净额的店不再被算进「没标店」，每家店的钱（含负数）归自己名下，「没标店」只算真正没标店的行；总数不变，正常记账显示与之前一致",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.30.ipa"
 }
