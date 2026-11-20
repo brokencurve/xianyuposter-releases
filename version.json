@@ -1,6 +1,6 @@
 {
-  "version": "10.27",
-  "build": 199,
-  "notes": "提醒专项普查版：客户跟进提醒和报价单到期提醒的排期、取消、重排路径逐条对账，删客户 / 删单 / 改期 / 状态变更 / 合并 / 导入备份后旧提醒都会摘干净，没有孤儿提醒。这一版没有新功能。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.27.ipa"
+  "version": "10.28",
+  "build": 200,
+  "notes": "通知权限状态提示：系统里把通知关了（权限被拒）时，设置页「通知」区会多出一行橙字说明，点「去打开」跳到系统设置打开通知；权限正常时不显示。提醒的排期、时刻、开关口径没变",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.28.ipa"
 }
