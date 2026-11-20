@@ -1,6 +1,6 @@
 {
-  "version": "9.97",
-  "build": 169,
-  "notes": "完工结算单出图、复制全文之前，多了一道发送前自查：合同金额的来源（合同存档 / 报价单 / 手填）、有没有未确认的增项没算进去、已收有没有超过应收、质保到期盯不盯得了，一页摆清。有要留意的才弹清单，核对完点「照样发出」就按原样发——只提醒、不改数、不拦路；都没问题直接出图，跟以前一样。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.97.ipa"
+  "version": "9.98",
+  "build": 170,
+  "notes": "采购清单详情页顶部多了汇总行：打开一张清单就看到「一共 ¥X · 已买 ¥Y · 还差 ¥Z 没买」，在店里照单买料不用逐行心算；改数量、填单价、勾已买，汇总当场跟着变。还没填单价的行不算钱、只单独报行数；一行价都没填时只报「共 N 行，还没填价」，不摆假总数。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v9.98.ipa"
 }
