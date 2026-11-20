@@ -1,6 +1,6 @@
 {
-  "version": "10.9",
-  "build": 181,
-  "notes": "全局搜索补齐版：全局搜索新增合同、增项确认单、采购清单、材料商、剩余材料、干活记录六组，搜的口径和各存档页自己的搜索一样，点开就是对应的编辑/详情页。其他功能和数据没动。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.9.ipa"
+  "version": "10.10",
+  "build": 182,
+  "notes": "备份覆盖对账：备份会记下正在编的草稿，恢复完接着编那份；恢复预览补数账号、草稿和我的模板。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.10.ipa"
 }
