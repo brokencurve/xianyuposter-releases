@@ -1,6 +1,6 @@
 {
-  "version": "10.6",
-  "build": 178,
-  "notes": "五类单据补上了「复制全文」：报价单、质保卡、验收单、收款明细、收款收据，除了出图分享，现在也能一键复制成纯文字发业主——文字和图是同一份内容、同一个数，金额日期都对得上。报价单复制全文同样先过发送前自查，有问题先提醒，确认后点「照样复制」才复制。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.6.ipa"
+  "version": "10.7",
+  "build": 179,
+  "notes": "例行体检版：把最近四个版本（方案行步数、客户列表搜索、报价行合同标记、五类单据复制全文）逐项复查，51 项实测全过、零问题。五类单据的文字版和图同源同数，报价复制全文同样过发送前自查。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.7.ipa"
 }
