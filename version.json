@@ -1,6 +1,6 @@
 {
-  "version": "10.25",
-  "build": 197,
-  "notes": "堵「发了个空」的口子：节日问候里正文为空的问候语不再出现在选择列表，点错了也不会复制空串、白记一笔已发；报价、合同、增项、结算等「发客户一条龙」的发送话术要是在设置里被清空了，发送前会先拦下来说清楚，不再把空话术复制出去还报已复制好。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.25.ipa"
+  "version": "10.26",
+  "build": 198,
+  "notes": "例行体检版：把最近四个版本（负数金额措辞、自查负数防线、话术半截句防线、出站空内容防线）逐项又查了一遍，一百零二项实测全过，数和账都没问题。这一版没有新功能。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.26.ipa"
 }
