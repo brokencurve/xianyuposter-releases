@@ -1,6 +1,6 @@
 {
-  "version": "10.12",
-  "build": 184,
-  "notes": "例行体检版：把最近四个版本（帮助补齐、全局搜索补六类、备份补齐、收款流水）逐项复查了一遍，42 项实测全过，数和账都没问题。这一版没有新功能，装不装都行，装了就是查过的最新版。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.12.ipa"
+  "version": "10.13",
+  "build": 185,
+  "notes": "口径对齐版，改了两处小地方：合同、增项、采购清单三个存档页的搜索以前分大小写，服务名、材料名带英文时大小写对不上就搜不到，现在和全局搜索一样不分大小写（中文搜法没变）；收款流水里某个月全是文字金额时，月头不再写「0 笔 · 共 ¥0」，改成如实写「N 笔都是文字金额，没算进合计」。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.13.ipa"
 }
