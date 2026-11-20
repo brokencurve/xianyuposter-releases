@@ -1,6 +1,6 @@
 {
-  "version": "10.8",
-  "build": 180,
-  "notes": "帮助补齐版：新开两条帮助（客户列表里怎么搜人、单据除了发图还能复制全文发文字版），另在采购清单、报价单生成合同、施工方案存档三条里各补一句（清单汇总行、报价行「已生成合同」标记、方案行步数）。功能和数据都没动。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.8.ipa"
+  "version": "10.9",
+  "build": 181,
+  "notes": "全局搜索补齐版：全局搜索新增合同、增项确认单、采购清单、材料商、剩余材料、干活记录六组，搜的口径和各存档页自己的搜索一样，点开就是对应的编辑/详情页。其他功能和数据没动。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.9.ipa"
 }
