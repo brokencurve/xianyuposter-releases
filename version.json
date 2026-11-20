@@ -1,6 +1,6 @@
 {
-  "version": "10.18",
-  "build": 190,
-  "notes": "案例详情新加「发案例帖（完工实录发各平台）」：用这个案例的标题和完工一句话现拼一篇完工实录长文，点一下直接进发布中心发各平台。「发这一单」和「生成案例帖」的弹层里候选卡多了「一键发帖」，对比帖弹层多了「进发布中心」。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.18.ipa"
+  "version": "10.19",
+  "build": 191,
+  "notes": "收款流水加搜索：搜客户名、备注或金额，结果仍按月分组，组头合计只算筛出来的行；总览和导出保持全量。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.19.ipa"
 }
