@@ -1,6 +1,6 @@
 {
-  "version": "10.5",
-  "build": 177,
-  "notes": "报价单列表行上直接标「已生成合同」了：哪张单已经生成过合同一眼能看出来，不用再长按试；长按或右滑照样点「查看合同」打开那一份。作废的单不标（作废单本来也不起合同）。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.5.ipa"
+  "version": "10.6",
+  "build": 178,
+  "notes": "五类单据补上了「复制全文」：报价单、质保卡、验收单、收款明细、收款收据，除了出图分享，现在也能一键复制成纯文字发业主——文字和图是同一份内容、同一个数，金额日期都对得上。报价单复制全文同样先过发送前自查，有问题先提醒，确认后点「照样复制」才复制。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.6.ipa"
 }
