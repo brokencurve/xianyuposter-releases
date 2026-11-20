@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
-  "build": 172,
-  "notes": "出图选照片统一成同一套了：进度播报图、验收单图、完工对比帖现在共用同一个照片池，给同一个客户出图，选出来的照片不会再对不上。只是内部把口径收成一份，你存的照片、已经出的图都不受影响。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.0.ipa"
+  "version": "10.1",
+  "build": 173,
+  "notes": "报价单生成合同防重复了：同一张单已经生成过合同的，长按和右滑的入口会变成「查看合同」，点开就是那一份，不会再点一次多出一份。早先重复生成过几份的不会自动删，打开的是最近改的那一份；多余的去合同存档里手动删就行。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.1.ipa"
 }
