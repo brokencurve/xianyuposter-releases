@@ -1,6 +1,6 @@
 {
-  "version": "10.19",
-  "build": 191,
-  "notes": "收款流水加搜索：搜客户名、备注或金额，结果仍按月分组，组头合计只算筛出来的行；总览和导出保持全量。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.19.ipa"
+  "version": "10.20",
+  "build": 192,
+  "notes": "接线复查版：把全 App 的出站接线挨个走了一遍——文案、海报、方案、量房单、案例、单据做出来都能顺手走到下一站，工具页入口也没有死入口。这一版没有新功能。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.20.ipa"
 }
