@@ -1,6 +1,6 @@
 {
-  "version": "10.11",
-  "build": 183,
-  "notes": "收款流水：所有客户的每一笔收款按月列出来对账（工具页工作区 → 收款流水，紧挨应收总览）；点行进客户详情，页顶有本月已收/今年已收，与统计同口径。备份覆盖补齐（上一版）：恢复后接着编正在编的草稿，导入预览数账号/草稿/模板。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.11.ipa"
+  "version": "10.12",
+  "build": 184,
+  "notes": "例行体检版：把最近四个版本（帮助补齐、全局搜索补六类、备份补齐、收款流水）逐项复查了一遍，42 项实测全过，数和账都没问题。这一版没有新功能，装不装都行，装了就是查过的最新版。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.12.ipa"
 }
