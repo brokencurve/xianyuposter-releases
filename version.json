@@ -1,6 +1,6 @@
 {
-  "version": "10.10",
-  "build": 182,
-  "notes": "备份覆盖对账：备份会记下正在编的草稿，恢复完接着编那份；恢复预览补数账号、草稿和我的模板。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.10.ipa"
+  "version": "10.11",
+  "build": 183,
+  "notes": "收款流水：所有客户的每一笔收款按月列出来对账（工具页工作区 → 收款流水，紧挨应收总览）；点行进客户详情，页顶有本月已收/今年已收，与统计同口径。备份覆盖补齐（上一版）：恢复后接着编正在编的草稿，导入预览数账号/草稿/模板。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.11.ipa"
 }
