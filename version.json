@@ -1,6 +1,6 @@
 {
-  "version": "10.3",
-  "build": 175,
-  "notes": "客户详情页「他的方案」每行小字末尾多了一段步数：在客户档案里就能看出这份方案有几步，不用点进去数；没写步骤的方案不加这一段，和以前一模一样。方案存档列表里本来就有步数，这次是把客户详情这边补齐，两边文案写法一致。",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.3.ipa"
+  "version": "10.4",
+  "build": 176,
+  "notes": "客户跟进本顶部多了搜索框：按称呼、小区、服务、电话、备注搜客户，客户多了不用一页页翻；和原来的筛选能叠着用，清空搜索就回到全部。其他存档页（报价单、合同、增项、采购清单、方案、案例、材料商、剩余材料）本来就有搜索，这次把客户列表这一页补齐。",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.4.ipa"
 }
