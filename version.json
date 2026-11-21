@@ -1,6 +1,6 @@
 {
-  "version": "10.31",
-  "build": 203,
-  "notes": "例行体检版：把最近四个版本（提醒生命周期普查、通知权限被拒提示、五张导出表普查、材料统计归类修正）逐项复查，65 项实测全过，零真 bug；功能与上一版一致，照常用即可",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.31.ipa"
+  "version": "10.32",
+  "build": 204,
+  "notes": "显示口径小修：统计页「材料花费」里「其中标了店」那行与「没标店」行对齐，非零就显示；标店净额为负时汇总行不再缺席，金额照实写负数；账本身没变，正常记账的显示和以前一模一样",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.32.ipa"
 }
