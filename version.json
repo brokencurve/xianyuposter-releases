@@ -1,6 +1,6 @@
 {
-  "version": "10.30",
-  "build": 202,
-  "notes": "材料统计归类账修复版：统计页「材料花费」里负净额的店不再被算进「没标店」，每家店的钱（含负数）归自己名下，「没标店」只算真正没标店的行；总数不变，正常记账显示与之前一致",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.30.ipa"
+  "version": "10.31",
+  "build": 203,
+  "notes": "例行体检版：把最近四个版本（提醒生命周期普查、通知权限被拒提示、五张导出表普查、材料统计归类修正）逐项复查，65 项实测全过，零真 bug；功能与上一版一致，照常用即可",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.31.ipa"
 }
