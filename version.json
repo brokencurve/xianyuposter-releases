@@ -1,6 +1,6 @@
 {
-  "version": "10.51",
-  "build": 223,
-  "notes": "抖音直达换上最后一条实存入口（直接开文字发布模式，前两条实报都落首页，这条是抖音路由表里带全参数的真路由），点一次看落点；还落首页下一版就改成打开抖音点＋号的口径。小红书、快手、B站落点还没确认的顺手点一次",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.51.ipa"
+  "version": "10.52",
+  "build": 224,
+  "notes": "例行体检版：最近四版逐版对账全过；顺带修了两类提醒前后脚连点时第二条可能被吞掉的边角（改成排队补上）。抖音文字发布入口还没点的话点一次看落点，落对关线、还落首页下一版改成打开抖音点＋号",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.52.ipa"
 }
