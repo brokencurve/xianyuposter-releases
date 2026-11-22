@@ -1,6 +1,6 @@
 {
-  "version": "10.52",
-  "build": 224,
-  "notes": "例行体检版：最近四版逐版对账全过；顺带修了两类提醒前后脚连点时第二条可能被吞掉的边角（改成排队补上）。抖音文字发布入口还没点的话点一次看落点，落对关线、还落首页下一版改成打开抖音点＋号",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.52.ipa"
+  "version": "10.53",
+  "build": 225,
+  "notes": "帮助对账版：帮助中心 76 条逐条对着现在的 App 核过，修了 3 条旧说法——⚡直达按钮现在跟着你选的平台走（不再写死闲鱼，帮助已改对）、案例发帖同样的旧说法、干活记录导出表格补上漏写的两列。功能没动。抖音文字发布入口点一次看落点，小红书/快手/B站也顺手点一次确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.53.ipa"
 }
