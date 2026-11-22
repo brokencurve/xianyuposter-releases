@@ -1,6 +1,6 @@
 {
-  "version": "10.40",
-  "build": 212,
-  "notes": "图片/媒体引用完整性普查版：二十多处取图面逐面核对——客户图只用客户自己名下的照片池、案例用自有图、二维码与收款码用设置图、删图引用全清、缺图跳过或占位；上限全是明示规则，零真缺口，没改功能",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.40.ipa"
+  "version": "10.41",
+  "build": 213,
+  "notes": "全面体检版：逐版复审 v10.37-v10.40（历史页搜索修齐、日期/数量/取图三轮普查），273 项实测全过、窗口内零真 bug；顺带补清一处老存档删图遗留引用；金额算法与各口径与上版逐字节一致",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.41.ipa"
 }
