@@ -1,6 +1,6 @@
 {
-  "version": "10.38",
-  "build": 210,
-  "notes": "时间戳显示格式普查版：全仓七十多处日期时间写法逐场景对照——单据日期全写法、图版文字版一个样，列表时间全 24 小时制，导出表格日期五张一个样；零真缺口，没改功能",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.38.ipa"
+  "version": "10.39",
+  "build": 211,
+  "notes": "数量类展示口径普查版：干活天数/人数、报价数量、采购数量、材料个数、剩余材料数量在列表、单据（图与文字）、导出表格三面逐值对照，全仓一把尺、零真缺口，没改功能",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.39.ipa"
 }
