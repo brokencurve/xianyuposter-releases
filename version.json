@@ -1,6 +1,6 @@
 {
-  "version": "10.48",
-  "build": 220,
-  "notes": "⚡直达按钮现在跟着你上次发的平台走：上次发小红书它就显示小红书，点下去复制+存图+直达小红书发布页，不用先进发布中心再选，闲鱼照旧；跟到视频号会先进发布中心走确认那一步，不会误标。抖音直达换了入口（上一条地址在抖音表里查无此路），请再点一次抖音看落点；小红书、快手、B站仍等逐个确认",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.48.ipa"
+  "version": "10.49",
+  "build": 221,
+  "notes": "例行体检版：今日卡上的待跟进名单和手机通知实际会响的名单逐个对过了，是一份名单、同一把尺——客户跟进通知响的日子就是跟进日当天，跟进日过了还没办的卡上一直挂着催办；已完工的走「完工待回访」，只在 App 里提醒、不弹通知；报价单到期提醒只排已发的单、到期前 1 天响。抖音直达新入口（上一版换的）点一次看落点对不对；小红书、快手、B站落点也顺手确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.49.ipa"
 }
