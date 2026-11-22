@@ -1,6 +1,6 @@
 {
-  "version": "10.41",
-  "build": 213,
-  "notes": "全面体检版：逐版复审 v10.37-v10.40（历史页搜索修齐、日期/数量/取图三轮普查），273 项实测全过、窗口内零真 bug；顺带补清一处老存档删图遗留引用；金额算法与各口径与上版逐字节一致",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.41.ipa"
+  "version": "10.42",
+  "build": 214,
+  "notes": "通知文案口径普查版：两类本地通知（客户跟进提醒、报价单到期提醒）标题正文逐字盘点，与 App 内对应行同源同说法、提醒里的到期日和单子上标的同一个日子不差一天；改名改期后提醒按新内容重排，空名边角有守卫。零真缺口，这一版没有改功能",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.42.ipa"
 }
