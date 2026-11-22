@@ -1,6 +1,6 @@
 {
-  "version": "10.32",
-  "build": 204,
-  "notes": "显示口径小修：统计页「材料花费」里「其中标了店」那行与「没标店」行对齐，非零就显示；标店净额为负时汇总行不再缺席，金额照实写负数；账本身没变，正常记账的显示和以前一模一样",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.32.ipa"
+  "version": "10.33",
+  "build": 205,
+  "notes": "日期天数一致性普查版：报价到期、工地超期、质保窗口、沉睡停滞、节日倒计时的天数算法与说法逐项核对，全对得上，本版无功能改动",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.33.ipa"
 }
