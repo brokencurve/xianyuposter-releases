@@ -1,5 +1,5 @@
 {
-  "version": "10.39",
+  "version": "10.40",
   "build": 212,
   "notes": "图片/媒体引用完整性普查版：二十多处取图面逐面核对——客户图只用客户自己名下的照片池、案例用自有图、二维码与收款码用设置图、删图引用全清、缺图跳过或占位；上限全是明示规则，零真缺口，没改功能",
   "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.40.ipa"
