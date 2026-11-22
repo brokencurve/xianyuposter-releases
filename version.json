@@ -1,6 +1,6 @@
 {
-  "version": "10.35",
-  "build": 207,
-  "notes": "数字格式普查版：全 App 金额、数量、面积、天数、百分比的写法逐项核对，全走同一把尺，单据图版与文字版数字一致，本版无功能改动",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.35.ipa"
+  "version": "10.36",
+  "build": 208,
+  "notes": "全面体检版：审计 v10.32-v10.35 四个版本逐项复查，138 项实测全过、零真 bug；案例造价「1.2万」排序修复复验不回退，金额算法、材料与收款恒等式、小组件数字口径全对得上",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.36.ipa"
 }
