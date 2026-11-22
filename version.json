@@ -1,6 +1,6 @@
 {
-  "version": "10.37",
-  "build": 209,
-  "notes": "搜索匹配口径普查版：全仓 19 个搜索面逐个对口径，修历史页搜索没去首尾空格的毛病（带空格搜不到、只输空格会筛窄列表）；其余十八处本来就同一把尺，大小写不敏感、空格不影响",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.37.ipa"
+  "version": "10.38",
+  "build": 210,
+  "notes": "时间戳显示格式普查版：全仓七十多处日期时间写法逐场景对照——单据日期全写法、图版文字版一个样，列表时间全 24 小时制，导出表格日期五张一个样；零真缺口，没改功能",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.38.ipa"
 }
