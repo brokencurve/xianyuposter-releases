@@ -1,6 +1,6 @@
 {
-  "version": "10.56",
-  "build": 228,
-  "notes": "修好了「工具页点设置（齿轮）直接卡死」：原因是设置页一打开就陷进反复重算备份数据的死循环，第一帧就冻住。现在备份改成点「导出全部数据」时才算，设置秒开，导出入口和内容都没变。装好后点一次设置确认还卡不卡。抖音文字发布入口仍等你点一次看落点，通知连点排队补推也顺手验一下",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.56.ipa"
+  "version": "10.57",
+  "build": 229,
+  "notes": "例行体检版：最近四个版本（帮助改对旧说法、全局搜索补上结算快照、帮助补清说明、修好点设置卡死）逐版对账复查，九十多项实测全过、没查出新毛病，功能和上一版一样。点设置卡死的修复等你确认：点一次工具页左上角设置（齿轮），秒开就是好了；抖音新入口点一次看落点，落对关线、还落首页下一版改成打开抖音点＋号",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.57.ipa"
 }
