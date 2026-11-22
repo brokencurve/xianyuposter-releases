@@ -1,6 +1,6 @@
 {
-  "version": "10.47",
-  "build": 219,
-  "notes": "例行体检版：最近五版逐版对账复查，一百多项实测全过，金额/提醒/备份口径没变；顺带修了一个边角——客户页或报价单页开着时再点第二条同类提醒以前会被吞掉，现在会直接跳到新提醒的那位客户或那张单，正在改的单子切过去前自动存好",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.47.ipa"
+  "version": "10.48",
+  "build": 220,
+  "notes": "⚡直达按钮现在跟着你上次发的平台走：上次发小红书它就显示小红书，点下去复制+存图+直达小红书发布页，不用先进发布中心再选，闲鱼照旧；跟到视频号会先进发布中心走确认那一步，不会误标。抖音直达换了入口（上一条地址在抖音表里查无此路），请再点一次抖音看落点；小红书、快手、B站仍等逐个确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.48.ipa"
 }
