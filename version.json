@@ -1,6 +1,6 @@
 {
-  "version": "10.53",
-  "build": 225,
-  "notes": "帮助对账版：帮助中心 76 条逐条对着现在的 App 核过，修了 3 条旧说法——⚡直达按钮现在跟着你选的平台走（不再写死闲鱼，帮助已改对）、案例发帖同样的旧说法、干活记录导出表格补上漏写的两列。功能没动。抖音文字发布入口点一次看落点，小红书/快手/B站也顺手点一次确认",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.53.ipa"
+  "version": "10.54",
+  "build": 226,
+  "notes": "全局搜索补上结算快照：输客户名、小区地址或服务名就能搜到存过的结算留底，点开就是那张快照。这一版把 App 里所有数据类别对着全局搜索盘了一遍，其余类别原来就都搜得到；账号、模板、素材、量房记录是特意不进全局搜索的，更新说明里写了理由。抖音文字发布入口点一次看落点，小红书/快手/B站也顺手点一次确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.54.ipa"
 }
