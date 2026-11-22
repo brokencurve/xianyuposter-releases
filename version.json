@@ -1,6 +1,6 @@
 {
-  "version": "10.45",
-  "build": 217,
-  "notes": "通知点入落点普查版：点跟进提醒直达客户、点报价到期提醒直达那张单的全链查过，冷启暖启落点一致，客户/单子已删或备份恢复后对不上号时都有不在了提示并落到列表页，零真缺口零功能改动",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.45.ipa"
+  "version": "10.46",
+  "build": 218,
+  "notes": "其他平台同闲鱼一样直达发布页（用户点单）：小红书、抖音、快手、B站加了各家官方包实证的发布页入口，点发布先试着直达（抖音落创作页），不可用自动回退打开 App；58同城、今日头条、视频号无可靠入口维持打开 App；请逐个点一次看落点",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.46.ipa"
 }
