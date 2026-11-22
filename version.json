@@ -1,6 +1,6 @@
 {
-  "version": "10.54",
-  "build": 226,
-  "notes": "全局搜索补上结算快照：输客户名、小区地址或服务名就能搜到存过的结算留底，点开就是那张快照。这一版把 App 里所有数据类别对着全局搜索盘了一遍，其余类别原来就都搜得到；账号、模板、素材、量房记录是特意不进全局搜索的，更新说明里写了理由。抖音文字发布入口点一次看落点，小红书/快手/B站也顺手点一次确认",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.54.ipa"
+  "version": "10.55",
+  "build": 227,
+  "notes": "帮助里补了两处说明：点提醒跳进去的边角（正看着一位客户或一张单时再点同类提醒会直接换过去；客户和报价单两条提醒连着点，后到的排队、退出先看的页面自动补上，不会丢）和备份还原报「缺几张图」的算法（只数备份里没有、本机也找不到的图，同机导回不误报）。抖音文字发布入口仍等你点一次看落点，小红书/快手/B站也顺手确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.55.ipa"
 }
