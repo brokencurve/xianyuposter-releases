@@ -1,6 +1,6 @@
 {
-  "version": "10.43",
-  "build": 215,
-  "notes": "备份导入预览计数口径普查版：恢复备份前预览里十六类条数（文案/客户/报价单/案例/方案/合同/增项/采购/材料商/剩余材料/干活记录/结算快照/素材/账号/草稿/我的模板）和真正恢复完落下来的条数逐类对过，一百四十多项实测全对得上；悬空关联只摘不删条、缺图如实报数。零真缺口，这一版没有改功能",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.43.ipa"
+  "version": "10.44",
+  "build": 216,
+  "notes": "闲鱼一键直达落点修复版：旧发布页链接落到闲鱼已废弃入口的版本太老死页，已换成闲鱼现在自用的发布页入口（simple_post）；删掉四条猜测候选，回执加没落在发布页点中间＋号发闲置的兜底指引；文案照旧自动复制、海报照旧存相册，iOS 落点请装后复测",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.44.ipa"
 }
