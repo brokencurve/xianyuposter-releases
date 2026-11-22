@@ -1,6 +1,6 @@
 {
   "version": "10.39",
-  "build": 211,
-  "notes": "数量类展示口径普查版：干活天数/人数、报价数量、采购数量、材料个数、剩余材料数量在列表、单据（图与文字）、导出表格三面逐值对照，全仓一把尺、零真缺口，没改功能",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.39.ipa"
+  "build": 212,
+  "notes": "图片/媒体引用完整性普查版：二十多处取图面逐面核对——客户图只用客户自己名下的照片池、案例用自有图、二维码与收款码用设置图、删图引用全清、缺图跳过或占位；上限全是明示规则，零真缺口，没改功能",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.40.ipa"
 }
