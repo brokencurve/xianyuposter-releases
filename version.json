@@ -1,6 +1,6 @@
 {
-  "version": "10.44",
-  "build": 216,
-  "notes": "闲鱼一键直达落点修复版：旧发布页链接落到闲鱼已废弃入口的版本太老死页，已换成闲鱼现在自用的发布页入口（simple_post）；删掉四条猜测候选，回执加没落在发布页点中间＋号发闲置的兜底指引；文案照旧自动复制、海报照旧存相册，iOS 落点请装后复测",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.44.ipa"
+  "version": "10.45",
+  "build": 217,
+  "notes": "通知点入落点普查版：点跟进提醒直达客户、点报价到期提醒直达那张单的全链查过，冷启暖启落点一致，客户/单子已删或备份恢复后对不上号时都有不在了提示并落到列表页，零真缺口零功能改动",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.45.ipa"
 }
