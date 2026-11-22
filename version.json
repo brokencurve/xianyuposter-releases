@@ -1,6 +1,6 @@
 {
-  "version": "10.49",
-  "build": 221,
-  "notes": "例行体检版：今日卡上的待跟进名单和手机通知实际会响的名单逐个对过了，是一份名单、同一把尺——客户跟进通知响的日子就是跟进日当天，跟进日过了还没办的卡上一直挂着催办；已完工的走「完工待回访」，只在 App 里提醒、不弹通知；报价单到期提醒只排已发的单、到期前 1 天响。抖音直达新入口（上一版换的）点一次看落点对不对；小红书、快手、B站落点也顺手确认",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.49.ipa"
+  "version": "10.50",
+  "build": 222,
+  "notes": "修了一个备份还原的小误报：同一个手机上还原备份时，备份包里没带全的图如果手机本地本来就有，以前回执会误报成「缺了几张图」，现在先查本地再报数，不再吓你——只是回执数字变准，数据一直没丢过。抖音直达新入口（v10.48 换的）点一次看落点；小红书、快手、B站落点也顺手确认",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.50.ipa"
 }
