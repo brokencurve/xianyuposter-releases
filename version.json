@@ -1,6 +1,6 @@
 {
-  "version": "10.34",
-  "build": 206,
-  "notes": "金额解析普查版：全 App 三十多处金额/数量解析逐项核对同一把尺，读不出不算数、不悄悄当 0；修了案例造价写「1.2万」按造价排序时被当没记沉底的毛病",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.34.ipa"
+  "version": "10.35",
+  "build": 207,
+  "notes": "数字格式普查版：全 App 金额、数量、面积、天数、百分比的写法逐项核对，全走同一把尺，单据图版与文字版数字一致，本版无功能改动",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.35.ipa"
 }
