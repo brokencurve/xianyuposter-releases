@@ -1,6 +1,6 @@
 {
-  "version": "10.57",
-  "build": 229,
-  "notes": "例行体检版：最近四个版本（帮助改对旧说法、全局搜索补上结算快照、帮助补清说明、修好点设置卡死）逐版对账复查，九十多项实测全过、没查出新毛病，功能和上一版一样。点设置卡死的修复等你确认：点一次工具页左上角设置（齿轮），秒开就是好了；抖音新入口点一次看落点，落对关线、还落首页下一版改成打开抖音点＋号",
-  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.57.ipa"
+  "version": "10.58",
+  "build": 230,
+  "notes": "这一版是普查版：把 App 打开那一下、还有四个页签（创作 / 海报 / 工具 / 历史）第一次点开时在后台干的活，从启动读数据到每个页面的第一帧，逐项盘了一遍——没有发现会卡死、会转圈死循环、或者数据越多越慢的隐患，功能和上一版一样。点设置卡死的修复还等你确认：点一次工具页左上角设置（齿轮），秒开就是好了；抖音新入口点一次看落点，落对关线、还落首页下一版改成打开抖音点＋号",
+  "url": "https://raw.githubusercontent.com/brokencurve/xianyuposter-releases/main/XianYuPoster-v10.58.ipa"
 }
